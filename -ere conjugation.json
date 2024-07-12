@@ -1,0 +1,3510 @@
+[
+    {
+        "id": 1,
+        "prompt": "Io {input} (correre) nel parco.",
+        "answer": "corro",
+        "translation": "I run in the park.",
+        "audio": "1_Io_corro_nel_parco.mp3"
+    },
+    {
+        "id": 2,
+        "prompt": "Tu {input} (prendere) il treno.",
+        "answer": "prendi",
+        "translation": "You take the train.",
+        "audio": "2_Tu_prendi_il_treno.mp3"
+    },
+    {
+        "id": 3,
+        "prompt": "Lui {input} (vedere) un film.",
+        "answer": "vede",
+        "translation": "He watches a movie.",
+        "audio": "3_Lui_vede_un_film.mp3"
+    },
+    {
+        "id": 4,
+        "prompt": "Noi {input} (leggere) un libro interessante.",
+        "answer": "leggiamo",
+        "translation": "We read an interesting book.",
+        "audio": "4_Noi_leggiamo_un_libro_interessante.mp3"
+    },
+    {
+        "id": 5,
+        "prompt": "Voi {input} (scrivere) una lettera.",
+        "answer": "scrivete",
+        "translation": "You guys write a letter.",
+        "audio": "5_Voi_scrivete_una_lettera.mp3"
+    },
+    {
+        "id": 6,
+        "prompt": "Loro {input} (prendere) un caffè al bar.",
+        "answer": "prendono",
+        "translation": "They take a coffee at the bar.",
+        "audio": "6_Loro_prendono_un_caffe_al_bar.mp3"
+    },
+    {
+        "id": 7,
+        "prompt": "Io {input} (vivere) in Italia.",
+        "answer": "vivo",
+        "translation": "I live in Italy.",
+        "audio": "7_Io_vivo_in_Italia.mp3"
+    },
+    {
+        "id": 8,
+        "prompt": "Tu {input} (chiedere) aiuto.",
+        "answer": "chiedi",
+        "translation": "You ask for help.",
+        "audio": "8_Tu_chiedi_aiuto.mp3"
+    },
+    {
+        "id": 9,
+        "prompt": "Lei {input} (chiudere) la porta.",
+        "answer": "chiude",
+        "translation": "She closes the door.",
+        "audio": "9_Lei_chiude_la_porta.mp3"
+    },
+    {
+        "id": 10,
+        "prompt": "Noi {input} (ricevere) una lettera.",
+        "answer": "riceviamo",
+        "translation": "We receive a letter.",
+        "audio": "10_Noi_riceviamo_una_lettera.mp3"
+    },
+    {
+        "id": 11,
+        "prompt": "Voi {input} (mettere) il libro sul tavolo.",
+        "answer": "mettete",
+        "translation": "You guys put the book on the table.",
+        "audio": "11_Voi_mettete_il_libro_sul_tavolo.mp3"
+    },
+    {
+        "id": 12,
+        "prompt": "Loro {input} (scrivere) un'email.",
+        "answer": "scrivono",
+        "translation": "They write an email.",
+        "audio": "12_Loro_scrivono_unemail.mp3"
+    },
+    {
+        "id": 13,
+        "prompt": "Io {input} (correre) ogni giorno.",
+        "answer": "corro",
+        "translation": "I run every day.",
+        "audio": "13_Io_corro_ogni_giorno.mp3"
+    },
+    {
+        "id": 14,
+        "prompt": "Tu {input} (leggere) il giornale.",
+        "answer": "leggi",
+        "translation": "You read the newspaper.",
+        "audio": "14_Tu_leggi_il_giornale.mp3"
+    },
+    {
+        "id": 15,
+        "prompt": "Lui {input} (vedere) la televisione.",
+        "answer": "vede",
+        "translation": "He watches television.",
+        "audio": "15_Lui_vede_la_televisione.mp3"
+    },
+    {
+        "id": 16,
+        "prompt": "Noi {input} (vivere) in una grande città.",
+        "answer": "viviamo",
+        "translation": "We live in a big city.",
+        "audio": "16_Noi_viviamo_in_una_grande_citta.mp3"
+    },
+    {
+        "id": 17,
+        "prompt": "Voi {input} (chiudere) le finestre.",
+        "answer": "chiudete",
+        "translation": "You guys close the windows.",
+        "audio": "17_Voi_chiudete_le_finestre.mp3"
+    },
+    {
+        "id": 18,
+        "prompt": "Loro {input} (prendere) un taxi.",
+        "answer": "prendono",
+        "translation": "They take a taxi.",
+        "audio": "18_Loro_prendono_un_taxi.mp3"
+    },
+    {
+        "id": 19,
+        "prompt": "Io {input} (scrivere) nel mio diario.",
+        "answer": "scrivo",
+        "translation": "I write in my diary.",
+        "audio": "19_Io_scrivo_nel_mio_diario.mp3"
+    },
+    {
+        "id": 20,
+        "prompt": "Tu {input} (vedere) il dottore.",
+        "answer": "vedi",
+        "translation": "You see the doctor.",
+        "audio": "20_Tu_vedi_il_dottore.mp3"
+    },
+    {
+        "id": 21,
+        "prompt": "Lei {input} (prendere) il sole in spiaggia.",
+        "answer": "prende",
+        "translation": "She sunbathes on the beach.",
+        "audio": "21_Lei_prende_il_sole_in_spiaggia.mp3"
+    },
+    {
+        "id": 22,
+        "prompt": "Noi {input} (leggere) un romanzo.",
+        "answer": "leggiamo",
+        "translation": "We read a novel.",
+        "audio": "22_Noi_leggiamo_un_romanzo.mp3"
+    },
+    {
+        "id": 23,
+        "prompt": "Voi {input} (correre) all'alba.",
+        "answer": "correte",
+        "translation": "You guys run at dawn.",
+        "audio": "23_Voi_correte_allalba.mp3"
+    },
+    {
+        "id": 24,
+        "prompt": "Loro {input} (scrivere) una relazione.",
+        "answer": "scrivono",
+        "translation": "They write a report.",
+        "audio": "24_Loro_scrivono_una_relazione.mp3"
+    },
+    {
+        "id": 25,
+        "prompt": "Io {input} (vedere) i miei amici.",
+        "answer": "vedo",
+        "translation": "I see my friends.",
+        "audio": "25_Io_vedo_i_miei_amici.mp3"
+    },
+    {
+        "id": 26,
+        "prompt": "Tu {input} (correre) in palestra.",
+        "answer": "corri",
+        "translation": "You run in the gym.",
+        "audio": "26_Tu_corri_in_palestra.mp3"
+    },
+    {
+        "id": 27,
+        "prompt": "Lui {input} (prendere) l'autobus.",
+        "answer": "prende",
+        "translation": "He takes the bus.",
+        "audio": "27_Lui_prende_lautobus.mp3"
+    },
+    {
+        "id": 28,
+        "prompt": "Noi {input} (chiudere) il negozio.",
+        "answer": "chiudiamo",
+        "translation": "We close the shop.",
+        "audio": "28_Noi_chiudiamo_il_negozio.mp3"
+    },
+    {
+        "id": 29,
+        "prompt": "Voi {input} (vedere) una commedia.",
+        "answer": "vedete",
+        "translation": "You guys see a play.",
+        "audio": "29_Voi_vedete_una_commedia.mp3"
+    },
+    {
+        "id": 30,
+        "prompt": "Loro {input} (vivere) in campagna.",
+        "answer": "vivono",
+        "translation": "They live in the countryside.",
+        "audio": "30_Loro_vivono_in_campagna.mp3"
+    },
+    {
+        "id": 31,
+        "prompt": "Io {input} (leggere) la rivista.",
+        "answer": "leggo",
+        "translation": "I read the magazine.",
+        "audio": "31_Io_leggo_la_rivista.mp3"
+    },
+    {
+        "id": 32,
+        "prompt": "Tu {input} (prendere) l'acqua.",
+        "answer": "prendi",
+        "translation": "You take the water.",
+        "audio": "32_Tu_prendi_lacqua.mp3"
+    },
+    {
+        "id": 33,
+        "prompt": "Lei {input} (scrivere) una poesia.",
+        "answer": "scrive",
+        "translation": "She writes a poem.",
+        "audio": "33_Lei_scrive_una_poesia.mp3"
+    },
+    {
+        "id": 34,
+        "prompt": "Noi {input} (vedere) un arcobaleno.",
+        "answer": "vediamo",
+        "translation": "We see a rainbow.",
+        "audio": "34_Noi_vediamo_un_arcobaleno.mp3"
+    },
+    {
+        "id": 35,
+        "prompt": "Voi {input} (vivere) in un appartamento.",
+        "answer": "vivete",
+        "translation": "You guys live in an apartment.",
+        "audio": "35_Voi_vivete_in_un_appartamento.mp3"
+    },
+    {
+        "id": 36,
+        "prompt": "Loro {input} (correre) per l'allenamento.",
+        "answer": "corrono",
+        "translation": "They run for training.",
+        "audio": "36_Loro_corrono_per_lallenamento.mp3"
+    },
+    {
+        "id": 37,
+        "prompt": "Io {input} (chiudere) la macchina.",
+        "answer": "chiudo",
+        "translation": "I close the car.",
+        "audio": "37_Io_chiudo_la_macchina.mp3"
+    },
+    {
+        "id": 38,
+        "prompt": "Tu {input} (leggere) il libro di storia.",
+        "answer": "leggi",
+        "translation": "You read the history book.",
+        "audio": "38_Tu_leggi_il_libro_di_storia.mp3"
+    },
+    {
+        "id": 39,
+        "prompt": "Lui {input} (prendere) il cappotto.",
+        "answer": "prende",
+        "translation": "He takes the coat.",
+        "audio": "39_Lui_prende_il_cappotto.mp3"
+    },
+    {
+        "id": 40,
+        "prompt": "Noi {input} (scrivere) un racconto.",
+        "answer": "scriviamo",
+        "translation": "We write a story.",
+        "audio": "40_Noi_scriviamo_un_racconto.mp3"
+    },
+    {
+        "id": 41,
+        "prompt": "Voi {input} (vedere) i fuochi d'artificio.",
+        "answer": "vedete",
+        "translation": "You guys see the fireworks.",
+        "audio": "41_Voi_vedete_i_fuochi_dartificio.mp3"
+    },
+    {
+        "id": 42,
+        "prompt": "Loro {input} (correre) sulla spiaggia.",
+        "answer": "corrono",
+        "translation": "They run on the beach.",
+        "audio": "42_Loro_corrono_sulla_spiaggia.mp3"
+    },
+    {
+        "id": 43,
+        "prompt": "Io {input} (prendere) un gelato.",
+        "answer": "prendo",
+        "translation": "I take an ice cream.",
+        "audio": "43_Io_prendo_un_gelato.mp3"
+    },
+    {
+        "id": 44,
+        "prompt": "Tu {input} (scrivere) un saggio.",
+        "answer": "scrivi",
+        "translation": "You write an essay.",
+        "audio": "44_Tu_scrivi_un_saggio.mp3"
+    },
+    {
+        "id": 45,
+        "prompt": "Lei {input} (leggere) una fiaba.",
+        "answer": "legge",
+        "translation": "She reads a fairy tale.",
+        "audio": "45_Lei_legge_una_fiaba.mp3"
+    },
+    {
+        "id": 46,
+        "prompt": "Noi {input} (vedere) una stella cadente.",
+        "answer": "vediamo",
+        "translation": "We see a shooting star.",
+        "audio": "46_Noi_vediamo_una_stella_cadente.mp3"
+    },
+    {
+        "id": 47,
+        "prompt": "Voi {input} (vivere) una bella avventura.",
+        "answer": "vivete",
+        "translation": "You guys live a beautiful adventure.",
+        "audio": "47_Voi_vivete_una_bella_avventura.mp3"
+    },
+    {
+        "id": 48,
+        "prompt": "Loro {input} (correre) in montagna.",
+        "answer": "corrono",
+        "translation": "They run in the mountains.",
+        "audio": "48_Loro_corrono_in_montagna.mp3"
+    },
+    {
+        "id": 49,
+        "prompt": "Io {input} (chiudere) la porta di casa.",
+        "answer": "chiudo",
+        "translation": "I close the house door.",
+        "audio": "49_Io_chiudo_la_porta_di_casa.mp3"
+    },
+    {
+        "id": 50,
+        "prompt": "Tu {input} (prendere) il telefono.",
+        "answer": "prendi",
+        "translation": "You take the phone.",
+        "audio": "50_Tu_prendi_il_telefono.mp3"
+    },
+
+    {
+        "id": 51,
+        "prompt": "Io {input} (temere) il buio.",
+        "answer": "temo",
+        "translation": "I fear the dark.",
+        "audio": "51_Io_temo_il_buio.mp3"
+    },
+    {
+        "id": 52,
+        "prompt": "Tu {input} (rispondere) alla domanda.",
+        "answer": "rispondi",
+        "translation": "You answer the question.",
+        "audio": "52_Tu_rispondi_alla_domanda.mp3"
+    },
+    {
+        "id": 53,
+        "prompt": "Lei {input} (vendere) fiori al mercato.",
+        "answer": "vende",
+        "translation": "She sells flowers at the market.",
+        "audio": "53_Lei_vende_fiori_al_mercato.mp3"
+    },
+    {
+        "id": 54,
+        "prompt": "Noi {input} (perdere) sempre le chiavi.",
+        "answer": "perdiamo",
+        "translation": "We always lose the keys.",
+        "audio": "54_Noi_perdiamo_sempre_le_chiavi.mp3"
+    },
+    {
+        "id": 55,
+        "prompt": "Voi {input} (vincere) la partita.",
+        "answer": "vincete",
+        "translation": "You guys win the match.",
+        "audio": "55_Voi_vincete_la_partita.mp3"
+    },
+    {
+        "id": 56,
+        "prompt": "Loro {input} (offrire) un caffè agli ospiti.",
+        "answer": "offrono",
+        "translation": "They offer a coffee to the guests.",
+        "audio": "56_Loro_offrono_un_caffe_agli_ospiti.mp3"
+    },
+    {
+        "id": 57,
+        "prompt": "Io {input} (scendere) le scale.",
+        "answer": "scendo",
+        "translation": "I go down the stairs.",
+        "audio": "57_Io_scendo_le_scale.mp3"
+    },
+    {
+        "id": 58,
+        "prompt": "Tu {input} (vivere) una vita tranquilla.",
+        "answer": "vivi",
+        "translation": "You live a quiet life.",
+        "audio": "58_Tu_vivi_una_vita_tranquilla.mp3"
+    },
+    {
+        "id": 59,
+        "prompt": "Lui {input} (decidere) di partire.",
+        "answer": "decide",
+        "translation": "He decides to leave.",
+        "audio": "59_Lui_decide_di_partire.mp3"
+    },
+    {
+        "id": 60,
+        "prompt": "Noi {input} (prendere) il treno delle otto.",
+        "answer": "prendiamo",
+        "translation": "We take the eight o'clock train.",
+        "audio": "60_Noi_prendiamo_il_treno_delle_otto.mp3"
+    },
+    {
+        "id": 61,
+        "prompt": "Voi {input} (correre) velocemente.",
+        "answer": "correte",
+        "translation": "You guys run fast.",
+        "audio": "61_Voi_correte_velocemente.mp3"
+    },
+    {
+        "id": 62,
+        "prompt": "Loro {input} (scrivere) sui quaderni.",
+        "answer": "scrivono",
+        "translation": "They write in the notebooks.",
+        "audio": "62_Loro_scrivono_sui_quaderni.mp3"
+    },
+    {
+        "id": 63,
+        "prompt": "Io {input} (vivere) con i miei genitori.",
+        "answer": "vivo",
+        "translation": "I live with my parents.",
+        "audio": "63_Io_vivo_con_i_miei_genitori.mp3"
+    },
+    {
+        "id": 64,
+        "prompt": "Tu {input} (temere) i ragni.",
+        "answer": "temi",
+        "translation": "You fear spiders.",
+        "audio": "64_Tu_temi_i_ragni.mp3"
+    },
+    {
+        "id": 65,
+        "prompt": "Lei {input} (vedere) la luna piena.",
+        "answer": "vede",
+        "translation": "She sees the full moon.",
+        "audio": "65_Lei_vede_la_luna_piena.mp3"
+    },
+    {
+        "id": 66,
+        "prompt": "Noi {input} (perdere) sempre i nostri guanti.",
+        "answer": "perdiamo",
+        "translation": "We always lose our gloves.",
+        "audio": "66_Noi_perdiamo_sempre_i_nostri_guanti.mp3"
+    },
+    {
+        "id": 67,
+        "prompt": "Voi {input} (prendere) lezioni di musica.",
+        "answer": "prendete",
+        "translation": "You guys take music lessons.",
+        "audio": "67_Voi_prendete_lezioni_di_musica.mp3"
+    },
+    {
+        "id": 68,
+        "prompt": "Loro {input} (vivere) vicino al mare.",
+        "answer": "vivono",
+        "translation": "They live near the sea.",
+        "audio": "68_Loro_vivono_vicino_al_mare.mp3"
+    },
+    {
+        "id": 69,
+        "prompt": "Io {input} (vendere) frutta e verdura.",
+        "answer": "vendo",
+        "translation": "I sell fruits and vegetables.",
+        "audio": "69_Io_vendo_frutta_e_verdura.mp3"
+    },
+    {
+        "id": 70,
+        "prompt": "Tu {input} (correre) al parco ogni mattina.",
+        "answer": "corri",
+        "translation": "You run at the park every morning.",
+        "audio": "70_Tu_corri_al_parco_ogni_mattina.mp3"
+    },
+    {
+        "id": 71,
+        "prompt": "Lui {input} (scrivere) una email alla sua amica.",
+        "answer": "scrive",
+        "translation": "He writes an email to his friend.",
+        "audio": "71_Lui_scrive_una_email_alla_sua_amica.mp3"
+    },
+    {
+        "id": 72,
+        "prompt": "Noi {input} (leggere) libri di avventura.",
+        "answer": "leggiamo",
+        "translation": "We read adventure books.",
+        "audio": "72_Noi_leggiamo_libri_di_avventura.mp3"
+    },
+    {
+        "id": 73,
+        "prompt": "Voi {input} (vedere) il tramonto.",
+        "answer": "vedete",
+        "translation": "You guys see the sunset.",
+        "audio": "73_Voi_vedete_il_tramonto.mp3"
+    },
+    {
+        "id": 74,
+        "prompt": "Loro {input} (vivere) una vita piena di avventure.",
+        "answer": "vivono",
+        "translation": "They live a life full of adventures.",
+        "audio": "74_Loro_vivono_una_vita_piena_di_avventure.mp3"
+    },
+    {
+        "id": 75,
+        "prompt": "Io {input} (prendere) un caffè ogni mattina.",
+        "answer": "prendo",
+        "translation": "I have a coffee every morning.",
+        "audio": "75_Io_prendo_un_caffe_ogni_mattina.mp3"
+    },
+    {
+        "id": 76,
+        "prompt": "Tu {input} (vendere) prodotti fatti a mano.",
+        "answer": "vendi",
+        "translation": "You sell handmade products.",
+        "audio": "76_Tu_vendi_prodotti_fatti_a_mano.mp3"
+    },
+    {
+        "id": 77,
+        "prompt": "Lei {input} (scrivere) una recensione.",
+        "answer": "scrive",
+        "translation": "She writes a review.",
+        "audio": "77_Lei_scrive_una_recensione.mp3"
+    },
+    {
+        "id": 78,
+        "prompt": "Noi {input} (prendere) una decisione importante.",
+        "answer": "prendiamo",
+        "translation": "We make an important decision.",
+        "audio": "78_Noi_prendiamo_una_decisione_importante.mp3"
+    },
+    {
+        "id": 79,
+        "prompt": "Voi {input} (leggere) molti giornali.",
+        "answer": "leggete",
+        "translation": "You guys read many newspapers.",
+        "audio": "79_Voi_leggete_molti_giornali.mp3"
+    },
+    {
+        "id": 80,
+        "prompt": "Loro {input} (temere) i temporali.",
+        "answer": "temono",
+        "translation": "They fear thunderstorms.",
+        "audio": "80_Loro_temono_i_temporali.mp3"
+    },
+    {
+        "id": 81,
+        "prompt": "Io {input} (vendere) abbigliamento online.",
+        "answer": "vendo",
+        "translation": "I sell clothing online.",
+        "audio": "81_Io_vendo_abbigliamento_online.mp3"
+    },
+    {
+        "id": 82,
+        "prompt": "Tu {input} (vivere) in una città piccola.",
+        "answer": "vivi",
+        "translation": "You live in a small town.",
+        "audio": "82_Tu_vivi_in_una_citta_piccola.mp3"
+    },
+    {
+        "id": 83,
+        "prompt": "Lui {input} (correre) una maratona ogni anno.",
+        "answer": "corre",
+        "translation": "He runs a marathon every year.",
+        "audio": "83_Lui_corre_una_maratona_ogni_anno.mp3"
+    },
+    {
+        "id": 84,
+        "prompt": "Noi {input} (scrivere) sul nostro blog.",
+        "answer": "scriviamo",
+        "translation": "We write on our blog.",
+        "audio": "84_Noi_scriviamo_sul_nostro_blog.mp3"
+    },
+    {
+        "id": 85,
+        "prompt": "Voi {input} (vendere) automobili usate.",
+        "answer": "vendete",
+        "translation": "You guys sell used cars.",
+        "audio": "85_Voi_vendete_automobili_usate.mp3"
+    },
+    {
+        "id": 86,
+        "prompt": "Loro {input} (leggere) poesie italiane.",
+        "answer": "leggono",
+        "translation": "They read Italian poems.",
+        "audio": "86_Loro_leggono_poesie_italiane.mp3"
+    },
+    {
+        "id": 87,
+        "prompt": "Io {input} (temere) i serpenti.",
+        "answer": "temo",
+        "translation": "I fear snakes.",
+        "audio": "87_Io_temo_i_serpenti.mp3"
+    },
+    {
+        "id": 88,
+        "prompt": "Tu {input} (scrivere) una cartolina.",
+        "answer": "scrivi",
+        "translation": "You write a postcard.",
+        "audio": "88_Tu_scrivi_una_cartolina.mp3"
+    },
+    {
+        "id": 89,
+        "prompt": "Lui {input} (vedere) le stelle.",
+        "answer": "vede",
+        "translation": "He sees the stars.",
+        "audio": "89_Lui_vede_le_stelle.mp3"
+    },
+    {
+        "id": 90,
+        "prompt": "Noi {input} (vendere) i nostri prodotti.",
+        "answer": "vendiamo",
+        "translation": "We sell our products.",
+        "audio": "90_Noi_vendiamo_i_nostri_prodotti.mp3"
+    },
+    {
+        "id": 91,
+        "prompt": "Voi {input} (vivere) vicino al centro.",
+        "answer": "vivete",
+        "translation": "You guys live near the center.",
+        "audio": "91_Voi_vivete_vicino_al_centro.mp3"
+    },
+    {
+        "id": 92,
+        "prompt": "Loro {input} (scrivere) una canzone.",
+        "answer": "scrivono",
+        "translation": "They write a song.",
+        "audio": "92_Loro_scrivono_una_canzone.mp3"
+    },
+    {
+        "id": 93,
+        "prompt": "Io {input} (prendere) un taxi ogni giorno.",
+        "answer": "prendo",
+        "translation": "I take a taxi every day.",
+        "audio": "93_Io_prendo_un_taxi_ogni_giorno.mp3"
+    },
+    {
+        "id": 94,
+        "prompt": "Tu {input} (vedere) i tuoi genitori.",
+        "answer": "vedi",
+        "translation": "You see your parents.",
+        "audio": "94_Tu_vedi_i_tuoi_genitori.mp3"
+    },
+    {
+        "id": 95,
+        "prompt": "Lei {input} (vivere) in una casa grande.",
+        "answer": "vive",
+        "translation": "She lives in a big house.",
+        "audio": "95_Lei_vive_in_una_casa_grande.mp3"
+    },
+    {
+        "id": 96,
+        "prompt": "Noi {input} (leggere) riviste di moda.",
+        "answer": "leggiamo",
+        "translation": "We read fashion magazines.",
+        "audio": "96_Noi_leggiamo_riviste_di_moda.mp3"
+    },
+    {
+        "id": 97,
+        "prompt": "Voi {input} (prendere) appunti in classe.",
+        "answer": "prendete",
+        "translation": "You guys take notes in class.",
+        "audio": "97_Voi_prendete_appunti_in_classe.mp3"
+    },
+    {
+        "id": 98,
+        "prompt": "Loro {input} (vivere) una vita felice.",
+        "answer": "vivono",
+        "translation": "They live a happy life.",
+        "audio": "98_Loro_vivono_una_vita_felice.mp3"
+    },
+    {
+        "id": 99,
+        "prompt": "Io {input} (temere) di volare.",
+        "answer": "temo",
+        "translation": "I fear flying.",
+        "audio": "99_Io_temo_di_volare.mp3"
+    },
+    {
+        "id": 100,
+        "prompt": "Tu {input} (correre) ogni sera.",
+        "answer": "corri",
+        "translation": "You run every evening.",
+        "audio": "100_Tu_corri_ogni_sera.mp3"
+    },
+    {
+        "id": 101,
+        "prompt": "Io {input} (vedere) il mare dalla finestra.",
+        "answer": "vedo",
+        "translation": "I see the sea from the window.",
+        "audio": "101_Io_vedo_il_mare_dalla_finestra.mp3"
+    },
+    {
+        "id": 102,
+        "prompt": "Tu {input} (mettere) la giacca.",
+        "answer": "metti",
+        "translation": "You put on the jacket.",
+        "audio": "102_Tu_metti_la_giacca.mp3"
+    },
+    {
+        "id": 103,
+        "prompt": "Lei {input} (decidere) cosa fare.",
+        "answer": "decide",
+        "translation": "She decides what to do.",
+        "audio": "103_Lei_decide_cosa_fare.mp3"
+    },
+    {
+        "id": 104,
+        "prompt": "Noi {input} (perdere) spesso gli occhiali.",
+        "answer": "perdiamo",
+        "translation": "We often lose our glasses.",
+        "audio": "104_Noi_perdiamo_spesso_gli_occhiali.mp3"
+    },
+    {
+        "id": 105,
+        "prompt": "Voi {input} (chiedere) informazioni.",
+        "answer": "chiedete",
+        "translation": "You guys ask for information.",
+        "audio": "105_Voi_chiedete_informazioni.mp3"
+    },
+    {
+        "id": 106,
+        "prompt": "Loro {input} (scrivere) cartoline ai parenti.",
+        "answer": "scrivono",
+        "translation": "They write postcards to relatives.",
+        "audio": "106_Loro_scrivono_cartoline_ai_parenti.mp3"
+    },
+    {
+        "id": 107,
+        "prompt": "Io {input} (leggere) articoli interessanti.",
+        "answer": "leggo",
+        "translation": "I read interesting articles.",
+        "audio": "107_Io_leggo_articoli_interessanti.mp3"
+    },
+    {
+        "id": 108,
+        "prompt": "Tu {input} (correre) con il cane.",
+        "answer": "corri",
+        "translation": "You run with the dog.",
+        "audio": "108_Tu_corri_con_il_cane.mp3"
+    },
+    {
+        "id": 109,
+        "prompt": "Lui {input} (vedere) un arcobaleno.",
+        "answer": "vede",
+        "translation": "He sees a rainbow.",
+        "audio": "109_Lui_vede_un_arcobaleno.mp3"
+    },
+    {
+        "id": 110,
+        "prompt": "Noi {input} (vivere) in una casa piccola.",
+        "answer": "viviamo",
+        "translation": "We live in a small house.",
+        "audio": "110_Noi_viviamo_in_una_casa_piccola.mp3"
+    },
+    {
+        "id": 111,
+        "prompt": "Voi {input} (prendere) un gelato.",
+        "answer": "prendete",
+        "translation": "You guys have an ice cream.",
+        "audio": "111_Voi_prendete_un_gelato.mp3"
+    },
+    {
+        "id": 112,
+        "prompt": "Loro {input} (scrivere) sui muri.",
+        "answer": "scrivono",
+        "translation": "They write on the walls.",
+        "audio": "112_Loro_scrivono_sui_muri.mp3"
+    },
+    {
+        "id": 113,
+        "prompt": "Io {input} (temere) gli esami.",
+        "answer": "temo",
+        "translation": "I fear exams.",
+        "audio": "113_Io_temo_gli_esami.mp3"
+    },
+    {
+        "id": 114,
+        "prompt": "Tu {input} (vivere) in una grande città.",
+        "answer": "vivi",
+        "translation": "You live in a big city.",
+        "audio": "114_Tu_vivi_in_una_grande_citta.mp3"
+    },
+    {
+        "id": 115,
+        "prompt": "Lei {input} (prendere) un treno veloce.",
+        "answer": "prende",
+        "translation": "She takes a fast train.",
+        "audio": "115_Lei_prende_un_treno_veloce.mp3"
+    },
+    {
+        "id": 116,
+        "prompt": "Noi {input} (scrivere) una poesia.",
+        "answer": "scriviamo",
+        "translation": "We write a poem.",
+        "audio": "116_Noi_scriviamo_una_poesia.mp3"
+    },
+    {
+        "id": 117,
+        "prompt": "Voi {input} (leggere) il menu.",
+        "answer": "leggete",
+        "translation": "You guys read the menu.",
+        "audio": "117_Voi_leggete_il_menu.mp3"
+    },
+    {
+        "id": 118,
+        "prompt": "Loro {input} (correre) per divertimento.",
+        "answer": "corrono",
+        "translation": "They run for fun.",
+        "audio": "118_Loro_corrono_per_divertimento.mp3"
+    },
+    {
+        "id": 119,
+        "prompt": "Io {input} (decidere) di partire presto.",
+        "answer": "decido",
+        "translation": "I decide to leave early.",
+        "audio": "119_Io_decido_di_partire_presto.mp3"
+    },
+    {
+        "id": 120,
+        "prompt": "Tu {input} (prendere) il primo autobus.",
+        "answer": "prendi",
+        "translation": "You take the first bus.",
+        "audio": "120_Tu_prendi_il_primo_autobus.mp3"
+    },
+    {
+        "id": 121,
+        "prompt": "Lui {input} (mettere) la sveglia.",
+        "answer": "mette",
+        "translation": "He sets the alarm.",
+        "audio": "121_Lui_mette_la_sveglia.mp3"
+    },
+    {
+        "id": 122,
+        "prompt": "Noi {input} (vedere) il tramonto.",
+        "answer": "vediamo",
+        "translation": "We see the sunset.",
+        "audio": "122_Noi_vediamo_il_tramonto.mp3"
+    },
+    {
+        "id": 123,
+        "prompt": "Voi {input} (vivere) lontano dalla città.",
+        "answer": "vivete",
+        "translation": "You guys live far from the city.",
+        "audio": "123_Voi_vivete_lontano_dalla_citta.mp3"
+    },
+    {
+        "id": 124,
+        "prompt": "Loro {input} (chiedere) aiuto.",
+        "answer": "chiedono",
+        "translation": "They ask for help.",
+        "audio": "124_Loro_chiedono_aiuto.mp3"
+    },
+    {
+        "id": 125,
+        "prompt": "Io {input} (leggere) il giornale ogni mattina.",
+        "answer": "leggo",
+        "translation": "I read the newspaper every morning.",
+        "audio": "125_Io_leggo_il_giornale_ogni_mattina.mp3"
+    },
+    {
+        "id": 126,
+        "prompt": "Tu {input} (scrivere) una lunga email.",
+        "answer": "scrivi",
+        "translation": "You write a long email.",
+        "audio": "126_Tu_scrivi_una_lunga_email.mp3"
+    },
+    {
+        "id": 127,
+        "prompt": "Lei {input} (prendere) lezioni di pianoforte.",
+        "answer": "prende",
+        "translation": "She takes piano lessons.",
+        "audio": "127_Lei_prende_lezioni_di_pianoforte.mp3"
+    },
+    {
+        "id": 128,
+        "prompt": "Noi {input} (mettere) i libri nello zaino.",
+        "answer": "mettiamo",
+        "translation": "We put the books in the backpack.",
+        "audio": "128_Noi_metiamo_i_libri_nello_zaino.mp3"
+    },
+    {
+        "id": 129,
+        "prompt": "Voi {input} (vedere) una mostra d'arte.",
+        "answer": "vedete",
+        "translation": "You guys see an art exhibition.",
+        "audio": "129_Voi_vedete_una_mostra_darte.mp3"
+    },
+    {
+        "id": 130,
+        "prompt": "Loro {input} (vivere) in una villa.",
+        "answer": "vivono",
+        "translation": "They live in a villa.",
+        "audio": "130_Loro_vivono_in_una_villa.mp3"
+    },
+    {
+        "id": 131,
+        "prompt": "Io {input} (decidere) di cambiare lavoro.",
+        "answer": "decido",
+        "translation": "I decide to change jobs.",
+        "audio": "131_Io_decido_di_cambiare_lavoro.mp3"
+    },
+    {
+        "id": 132,
+        "prompt": "Tu {input} (temere) i ladri.",
+        "answer": "temi",
+        "translation": "You fear thieves.",
+        "audio": "132_Tu_temi_i_ladri.mp3"
+    },
+    {
+        "id": 133,
+        "prompt": "Lui {input} (scrivere) un romanzo.",
+        "answer": "scrive",
+        "translation": "He writes a novel.",
+        "audio": "133_Lui_scrive_un_romanzo.mp3"
+    },
+    {
+        "id": 134,
+        "prompt": "Noi {input} (correre) nel parco ogni giorno.",
+        "answer": "corriamo",
+        "translation": "We run in the park every day.",
+        "audio": "134_Noi_corriamo_nel_parco_ogni_giorno.mp3"
+    },
+    {
+        "id": 135,
+        "prompt": "Voi {input} (prendere) l'autobus per scuola.",
+        "answer": "prendete",
+        "translation": "You guys take the bus to school.",
+        "audio": "135_Voi_prendete_lautobus_per_scuola.mp3"
+    },
+    {
+        "id": 136,
+        "prompt": "Loro {input} (leggere) sempre libri nuovi.",
+        "answer": "leggono",
+        "translation": "They always read new books.",
+        "audio": "136_Loro_leggono_sempre_libri_nuovi.mp3"
+    },
+    {
+        "id": 137,
+        "prompt": "Io {input} (vedere) un film al cinema.",
+        "answer": "vedo",
+        "translation": "I watch a movie at the cinema.",
+        "audio": "137_Io_vedo_un_film_al_cinema.mp3"
+    },
+    {
+        "id": 138,
+        "prompt": "Tu {input} (correre) ogni mattina.",
+        "answer": "corri",
+        "translation": "You run every morning.",
+        "audio": "138_Tu_corri_ogni_mattina.mp3"
+    },
+    {
+        "id": 139,
+        "prompt": "Lei {input} (scrivere) una lettera alla sua amica.",
+        "answer": "scrive",
+        "translation": "She writes a letter to her friend.",
+        "audio": "139_Lei_scrive_una_lettera_alla_sua_amica.mp3"
+    },
+    {
+        "id": 140,
+        "prompt": "Noi {input} (vedere) una stella cadente.",
+        "answer": "vediamo",
+        "translation": "We see a shooting star.",
+        "audio": "140_Noi_vediamo_una_stella_cadente.mp3"
+    },
+    {
+        "id": 141,
+        "prompt": "Voi {input} (prendere) un taxi per andare in città.",
+        "answer": "prendete",
+        "translation": "You guys take a taxi to go to the city.",
+        "audio": "141_Voi_prendete_un_taxi_per_andare_in_citta.mp3"
+    },
+    {
+        "id": 142,
+        "prompt": "Loro {input} (vivere) con i loro genitori.",
+        "answer": "vivono",
+        "translation": "They live with their parents.",
+        "audio": "142_Loro_vivono_con_i_loro_genitori.mp3"
+    },
+    {
+        "id": 143,
+        "prompt": "Io {input} (temere) di perdere il lavoro.",
+        "answer": "temo",
+        "translation": "I fear losing my job.",
+        "audio": "143_Io_temo_di_perdere_il_lavoro.mp3"
+    },
+    {
+        "id": 144,
+        "prompt": "Tu {input} (mettere) i vestiti nel cassetto.",
+        "answer": "metti",
+        "translation": "You put the clothes in the drawer.",
+        "audio": "144_Tu_metti_i_vestiti_nel_cassetto.mp3"
+    },
+    {
+        "id": 145,
+        "prompt": "Lui {input} (prendere) lezioni di francese.",
+        "answer": "prende",
+        "translation": "He takes French lessons.",
+        "audio": "145_Lui_prende_lezioni_di_francese.mp3"
+    },
+    {
+        "id": 146,
+        "prompt": "Noi {input} (scrivere) un diario.",
+        "answer": "scriviamo",
+        "translation": "We write a diary.",
+        "audio": "146_Noi_scriviamo_un_diario.mp3"
+    },
+    {
+        "id": 147,
+        "prompt": "Voi {input} (vivere) in una città grande.",
+        "answer": "vivete",
+        "translation": "You guys live in a big city.",
+        "audio": "147_Voi_vivete_in_una_citta_grande.mp3"
+    },
+    {
+        "id": 148,
+        "prompt": "Loro {input} (leggere) libri di storia.",
+        "answer": "leggono",
+        "translation": "They read history books.",
+        "audio": "148_Loro_leggono_libri_di_storia.mp3"
+    },
+    {
+        "id": 149,
+        "prompt": "Io {input} (vedere) il sole al mattino.",
+        "answer": "vedo",
+        "translation": "I see the sun in the morning.",
+        "audio": "149_Io_vedo_il_sole_al_mattino.mp3"
+    },
+    {
+        "id": 150,
+        "prompt": "Tu {input} (decidere) di restare.",
+        "answer": "decidi",
+        "translation": "You decide to stay.",
+        "audio": "150_Tu_decidi_di_restare.mp3"
+    },
+    {
+        "id": 151,
+        "prompt": "Io {input} (prendere) una decisione difficile.",
+        "answer": "prendo",
+        "translation": "I make a difficult decision.",
+        "audio": "151_Io_prendo_una_decisione_difficile.mp3"
+    },
+    {
+        "id": 152,
+        "prompt": "Tu {input} (scrivere) una lista della spesa.",
+        "answer": "scrivi",
+        "translation": "You write a shopping list.",
+        "audio": "152_Tu_scrivi_una_lista_della_spesa.mp3"
+    },
+    {
+        "id": 153,
+        "prompt": "Lui {input} (vivere) da solo.",
+        "answer": "vive",
+        "translation": "He lives alone.",
+        "audio": "153_Lui_vive_da_solo.mp3"
+    },
+    {
+        "id": 154,
+        "prompt": "Noi {input} (vedere) spesso i nostri amici.",
+        "answer": "vediamo",
+        "translation": "We often see our friends.",
+        "audio": "154_Noi_vediamo_spesso_i_nostri_amici.mp3"
+    },
+    {
+        "id": 155,
+        "prompt": "Voi {input} (leggere) il libro di matematica.",
+        "answer": "leggete",
+        "translation": "You guys read the math book.",
+        "audio": "155_Voi_leggete_il_libro_di_matematica.mp3"
+    },
+    {
+        "id": 156,
+        "prompt": "Loro {input} (correre) nel parco dopo scuola.",
+        "answer": "corrono",
+        "translation": "They run in the park after school.",
+        "audio": "156_Loro_corrono_nel_parco_dopo_scuola.mp3"
+    },
+    {
+        "id": 157,
+        "prompt": "Io {input} (prendere) una tazza di tè.",
+        "answer": "prendo",
+        "translation": "I have a cup of tea.",
+        "audio": "157_Io_prendo_una_tazza_di_te.mp3"
+    },
+    {
+        "id": 158,
+        "prompt": "Tu {input} (scrivere) una poesia romantica.",
+        "answer": "scrivi",
+        "translation": "You write a romantic poem.",
+        "audio": "158_Tu_scrivi_una_poesia_romantica.mp3"
+    },
+    {
+        "id": 159,
+        "prompt": "Lei {input} (vedere) i suoi nonni ogni domenica.",
+        "answer": "vede",
+        "translation": "She sees her grandparents every Sunday.",
+        "audio": "159_Lei_vede_i_suoi_nonni_ogni_domenica.mp3"
+    },
+    {
+        "id": 160,
+        "prompt": "Noi {input} (vivere) in una casa di campagna.",
+        "answer": "viviamo",
+        "translation": "We live in a country house.",
+        "audio": "160_Noi_viviamo_in_una_casa_di_campagna.mp3"
+    },
+    {
+        "id": 161,
+        "prompt": "Voi {input} (leggere) una rivista di moda.",
+        "answer": "leggete",
+        "translation": "You guys read a fashion magazine.",
+        "audio": "161_Voi_leggete_una_rivista_di_moda.mp3"
+    },
+    {
+        "id": 162,
+        "prompt": "Loro {input} (correre) una maratona.",
+        "answer": "corrono",
+        "translation": "They run a marathon.",
+        "audio": "162_Loro_corrono_una_maratona.mp3"
+    },
+    {
+        "id": 163,
+        "prompt": "Io {input} (scrivere) una lettera di ringraziamento.",
+        "answer": "scrivo",
+        "translation": "I write a thank-you letter.",
+        "audio": "163_Io_scrivo_una_lettera_di_ringraziamento.mp3"
+    },
+    {
+        "id": 164,
+        "prompt": "Tu {input} (vedere) un bel paesaggio.",
+        "answer": "vedi",
+        "translation": "You see a beautiful landscape.",
+        "audio": "164_Tu_vedi_un_bel_paesaggio.mp3"
+    },
+    {
+        "id": 165,
+        "prompt": "Lui {input} (vivere) in una città molto grande.",
+        "answer": "vive",
+        "translation": "He lives in a very big city.",
+        "audio": "165_Lui_vive_in_una_citta_molto_grande.mp3"
+    },
+    {
+        "id": 166,
+        "prompt": "Noi {input} (prendere) lezioni di danza.",
+        "answer": "prendiamo",
+        "translation": "We take dance lessons.",
+        "audio": "166_Noi_prendiamo_lezioni_di_danza.mp3"
+    },
+    {
+        "id": 167,
+        "prompt": "Voi {input} (correre) in montagna.",
+        "answer": "correte",
+        "translation": "You guys run in the mountains.",
+        "audio": "167_Voi_correte_in_montagna.mp3"
+    },
+    {
+        "id": 168,
+        "prompt": "Loro {input} (scrivere) una sceneggiatura.",
+        "answer": "scrivono",
+        "translation": "They write a screenplay.",
+        "audio": "168_Loro_scrivono_una_sceneggiatura.mp3"
+    },
+    {
+        "id": 169,
+        "prompt": "Io {input} (vedere) un documentario interessante.",
+        "answer": "vedo",
+        "translation": "I watch an interesting documentary.",
+        "audio": "169_Io_vedo_un_documentario_interessante.mp3"
+    },
+    {
+        "id": 170,
+        "prompt": "Tu {input} (vivere) una vita avventurosa.",
+        "answer": "vivi",
+        "translation": "You live an adventurous life.",
+        "audio": "170_Tu_vivi_una_vita_avventurosa.mp3"
+    },
+    {
+        "id": 171,
+        "prompt": "Lei {input} (prendere) il treno ogni mattina.",
+        "answer": "prende",
+        "translation": "She takes the train every morning.",
+        "audio": "171_Lei_prende_il_treno_ogni_mattina.mp3"
+    },
+    {
+        "id": 172,
+        "prompt": "Noi {input} (scrivere) un articolo per il giornale.",
+        "answer": "scriviamo",
+        "translation": "We write an article for the newspaper.",
+        "audio": "172_Noi_scriviamo_un_articolo_per_il_giornale.mp3"
+    },
+    {
+        "id": 173,
+        "prompt": "Voi {input} (vedere) il film al cinema.",
+        "answer": "vedete",
+        "translation": "You guys watch the movie at the cinema.",
+        "audio": "173_Voi_vedete_il_film_al_cinema.mp3"
+    },
+    {
+        "id": 174,
+        "prompt": "Loro {input} (vivere) in una casa moderna.",
+        "answer": "vivono",
+        "translation": "They live in a modern house.",
+        "audio": "174_Loro_vivono_in_una_casa_moderna.mp3"
+    },
+    {
+        "id": 175,
+        "prompt": "Io {input} (correre) per allenarmi.",
+        "answer": "corro",
+        "translation": "I run to train.",
+        "audio": "175_Io_corro_per_allenarmi.mp3"
+    },
+    {
+        "id": 176,
+        "prompt": "Tu {input} (prendere) la strada più lunga.",
+        "answer": "prendi",
+        "translation": "You take the longer route.",
+        "audio": "176_Tu_prendi_la_strada_piu_lunga.mp3"
+    },
+    {
+        "id": 177,
+        "prompt": "Lui {input} (scrivere) racconti brevi.",
+        "answer": "scrive",
+        "translation": "He writes short stories.",
+        "audio": "177_Lui_scrive_racconti_brevi.mp3"
+    },
+    {
+        "id": 178,
+        "prompt": "Noi {input} (vedere) un concerto.",
+        "answer": "vediamo",
+        "translation": "We see a concert.",
+        "audio": "178_Noi_vediamo_un_concerto.mp3"
+    },
+    {
+        "id": 179,
+        "prompt": "Voi {input} (vivere) con gli amici.",
+        "answer": "vivete",
+        "translation": "You guys live with friends.",
+        "audio": "179_Voi_vivete_con_gli_amici.mp3"
+    },
+    {
+        "id": 180,
+        "prompt": "Loro {input} (correre) nel giardino.",
+        "answer": "corrono",
+        "translation": "They run in the garden.",
+        "audio": "180_Loro_corrono_nel_giardino.mp3"
+    },
+    {
+        "id": 181,
+        "prompt": "Io {input} (prendere) una boccata d'aria fresca.",
+        "answer": "prendo",
+        "translation": "I take a breath of fresh air.",
+        "audio": "181_Io_prendo_una_boccata_daria_fresca.mp3"
+    },
+    {
+        "id": 182,
+        "prompt": "Tu {input} (scrivere) una lettera al direttore.",
+        "answer": "scrivi",
+        "translation": "You write a letter to the director.",
+        "audio": "182_Tu_scrivi_una_lettera_al_direttore.mp3"
+    },
+    {
+        "id": 183,
+        "prompt": "Lei {input} (vedere) la sua amica ogni sabato.",
+        "answer": "vede",
+        "translation": "She sees her friend every Saturday.",
+        "audio": "183_Lei_vede_la_sua_amica_ogni_sabato.mp3"
+    },
+    {
+        "id": 184,
+        "prompt": "Noi {input} (vivere) in un appartamento moderno.",
+        "answer": "viviamo",
+        "translation": "We live in a modern apartment.",
+        "audio": "184_Noi_viviamo_in_un_appartamento_moderno.mp3"
+    },
+    {
+        "id": 185,
+        "prompt": "Voi {input} (leggere) un romanzo giallo.",
+        "answer": "leggete",
+        "translation": "You guys read a mystery novel.",
+        "audio": "185_Voi_leggete_un_romanzo_giallo.mp3"
+    },
+    {
+        "id": 186,
+        "prompt": "Loro {input} (correre) in palestra.",
+        "answer": "corrono",
+        "translation": "They run in the gym.",
+        "audio": "186_Loro_corrono_in_palestra.mp3"
+    },
+    {
+        "id": 187,
+        "prompt": "Io {input} (scrivere) un messaggio.",
+        "answer": "scrivo",
+        "translation": "I write a message.",
+        "audio": "187_Io_scrivo_un_messaggio.mp3"
+    },
+    {
+        "id": 188,
+        "prompt": "Tu {input} (vedere) il mondo da una prospettiva diversa.",
+        "answer": "vedi",
+        "translation": "You see the world from a different perspective.",
+        "audio": "188_Tu_vedi_il_mondo_da_una_prospettiva_diversa.mp3"
+    },
+    {
+        "id": 189,
+        "prompt": "Lui {input} (vivere) in un villaggio remoto.",
+        "answer": "vive",
+        "translation": "He lives in a remote village.",
+        "audio": "189_Lui_vive_in_un_villaggio_remoto.mp3"
+    },
+    {
+        "id": 190,
+        "prompt": "Noi {input} (prendere) un caffè al bar.",
+        "answer": "prendiamo",
+        "translation": "We have a coffee at the bar.",
+        "audio": "190_Noi_prendiamo_un_caffe_al_bar.mp3"
+    },
+    {
+        "id": 191,
+        "prompt": "Voi {input} (scrivere) un racconto.",
+        "answer": "scrivete",
+        "translation": "You guys write a story.",
+        "audio": "191_Voi_scrivete_un_racconto.mp3"
+    },
+    {
+        "id": 192,
+        "prompt": "Loro {input} (vedere) le montagne innevate.",
+        "answer": "vedono",
+        "translation": "They see the snow-capped mountains.",
+        "audio": "192_Loro_vedono_le_montagne_innevate.mp3"
+    },
+    {
+        "id": 193,
+        "prompt": "Io {input} (correre) per arrivare in tempo.",
+        "answer": "corro",
+        "translation": "I run to arrive on time.",
+        "audio": "193_Io_corro_per_arrivare_in_tempo.mp3"
+    },
+    {
+        "id": 194,
+        "prompt": "Tu {input} (vivere) vicino alla stazione.",
+        "answer": "vivi",
+        "translation": "You live near the station.",
+        "audio": "194_Tu_vivi_vicino_alla_stazione.mp3"
+    },
+    {
+        "id": 195,
+        "prompt": "Lei {input} (prendere) una pausa caffè.",
+        "answer": "prende",
+        "translation": "She takes a coffee break.",
+        "audio": "195_Lei_prende_una_pausa_caffe.mp3"
+    },
+    {
+        "id": 196,
+        "prompt": "Noi {input} (scrivere) un blog di viaggio.",
+        "answer": "scriviamo",
+        "translation": "We write a travel blog.",
+        "audio": "196_Noi_scriviamo_un_blog_di_viaggio.mp3"
+    },
+    {
+        "id": 197,
+        "prompt": "Voi {input} (vedere) l'aurora boreale.",
+        "answer": "vedete",
+        "translation": "You guys see the Northern Lights.",
+        "audio": "197_Voi_vedete_laurora_boreale.mp3"
+    },
+    {
+        "id": 198,
+        "prompt": "Loro {input} (vivere) in una piccola casa.",
+        "answer": "vivono",
+        "translation": "They live in a small house.",
+        "audio": "198_Loro_vivono_in_una_piccola_casa.mp3"
+    },
+    {
+        "id": 199,
+        "prompt": "Io {input} (prendere) lezioni di cucina.",
+        "answer": "prendo",
+        "translation": "I take cooking lessons.",
+        "audio": "199_Io_prendo_lezioni_di_cucina.mp3"
+    },
+    {
+        "id": 200,
+        "prompt": "Tu {input} (correre) per raggiungere l'autobus.",
+        "answer": "corri",
+        "translation": "You run to catch the bus.",
+        "audio": "200_Tu_corri_per_raggiungere_lautobus.mp3"
+    },
+    {
+        "id": 201,
+        "prompt": "Io {input} (mettere) il libro sullo scaffale.",
+        "answer": "metto",
+        "translation": "I put the book on the shelf.",
+        "audio": "201_Io_metto_il_libro_sullo_scaffale.mp3"
+    },
+    {
+        "id": 202,
+        "prompt": "Tu {input} (scrivere) un saggio per la scuola.",
+        "answer": "scrivi",
+        "translation": "You write an essay for school.",
+        "audio": "202_Tu_scrivi_un_saggio_per_la_scuola.mp3"
+    },
+    {
+        "id": 203,
+        "prompt": "Lei {input} (prendere) una decisione importante.",
+        "answer": "prende",
+        "translation": "She makes an important decision.",
+        "audio": "203_Lei_prende_una_decisione_importante.mp3"
+    },
+    {
+        "id": 204,
+        "prompt": "Noi {input} (vedere) i fuochi d'artificio.",
+        "answer": "vediamo",
+        "translation": "We see the fireworks.",
+        "audio": "204_Noi_vediamo_i_fuochi_dartificio.mp3"
+    },
+    {
+        "id": 205,
+        "prompt": "Voi {input} (vivere) in un appartamento in centro.",
+        "answer": "vivete",
+        "translation": "You guys live in an apartment downtown.",
+        "audio": "205_Voi_vivete_in_un_appartamento_in_centro.mp3"
+    },
+    {
+        "id": 206,
+        "prompt": "Loro {input} (correre) per il parco ogni mattina.",
+        "answer": "corrono",
+        "translation": "They run through the park every morning.",
+        "audio": "206_Loro_corrono_per_il_parco_ogni_mattina.mp3"
+    },
+    {
+        "id": 207,
+        "prompt": "Io {input} (scrivere) una mail di lavoro.",
+        "answer": "scrivo",
+        "translation": "I write a work email.",
+        "audio": "207_Io_scrivo_una_mail_di_lavoro.mp3"
+    },
+    {
+        "id": 208,
+        "prompt": "Tu {input} (vedere) una casa nuova.",
+        "answer": "vedi",
+        "translation": "You see a new house.",
+        "audio": "208_Tu_vedi_una_casa_nuova.mp3"
+    },
+    {
+        "id": 209,
+        "prompt": "Lui {input} (vivere) vicino al fiume.",
+        "answer": "vive",
+        "translation": "He lives near the river.",
+        "audio": "209_Lui_vive_vicino_al_fiume.mp3"
+    },
+    {
+        "id": 210,
+        "prompt": "Noi {input} (prendere) lezioni di spagnolo.",
+        "answer": "prendiamo",
+        "translation": "We take Spanish lessons.",
+        "audio": "210_Noi_prendiamo_lezioni_di_spagnolo.mp3"
+    },
+    {
+        "id": 211,
+        "prompt": "Voi {input} (scrivere) cartoline durante le vacanze.",
+        "answer": "scrivete",
+        "translation": "You guys write postcards during the holidays.",
+        "audio": "211_Voi_scrivete_cartoline_durante_le_vacanze.mp3"
+    },
+    {
+        "id": 212,
+        "prompt": "Loro {input} (correre) ogni sera.",
+        "answer": "corrono",
+        "translation": "They run every evening.",
+        "audio": "212_Loro_corrono_ogni_sera.mp3"
+    },
+    {
+        "id": 213,
+        "prompt": "Io {input} (vedere) una mostra d'arte.",
+        "answer": "vedo",
+        "translation": "I see an art exhibition.",
+        "audio": "213_Io_vedo_una_mostra_darte.mp3"
+    },
+    {
+        "id": 214,
+        "prompt": "Tu {input} (vivere) con i tuoi amici.",
+        "answer": "vivi",
+        "translation": "You live with your friends.",
+        "audio": "214_Tu_vivi_con_i_tuoi_amici.mp3"
+    },
+    {
+        "id": 215,
+        "prompt": "Lei {input} (prendere) una medicina.",
+        "answer": "prende",
+        "translation": "She takes a medicine.",
+        "audio": "215_Lei_prende_una_medicina.mp3"
+    },
+    {
+        "id": 216,
+        "prompt": "Noi {input} (scrivere) un racconto di avventura.",
+        "answer": "scriviamo",
+        "translation": "We write an adventure story.",
+        "audio": "216_Noi_scriviamo_un_racconto_di_avventura.mp3"
+    },
+    {
+        "id": 217,
+        "prompt": "Voi {input} (vedere) il tramonto sulla spiaggia.",
+        "answer": "vedete",
+        "translation": "You guys see the sunset on the beach.",
+        "audio": "217_Voi_vedete_il_tramonto_sulla_spiaggia.mp3"
+    },
+    {
+        "id": 218,
+        "prompt": "Loro {input} (vivere) in una città turistica.",
+        "answer": "vivono",
+        "translation": "They live in a tourist city.",
+        "audio": "218_Loro_vivono_in_una_citta_turistica.mp3"
+    },
+    {
+        "id": 219,
+        "prompt": "Io {input} (correre) ogni domenica mattina.",
+        "answer": "corro",
+        "translation": "I run every Sunday morning.",
+        "audio": "219_Io_corro_ogni_domenica_mattina.mp3"
+    },
+    {
+        "id": 220,
+        "prompt": "Tu {input} (prendere) lezioni di chitarra.",
+        "answer": "prendi",
+        "translation": "You take guitar lessons.",
+        "audio": "220_Tu_prendi_lezioni_di_chitarra.mp3"
+    },
+    {
+        "id": 221,
+        "prompt": "Lui {input} (scrivere) un diario di viaggio.",
+        "answer": "scrive",
+        "translation": "He writes a travel diary.",
+        "audio": "221_Lui_scrive_un_diario_di_viaggio.mp3"
+    },
+    {
+        "id": 222,
+        "prompt": "Noi {input} (vedere) i nostri cugini ogni estate.",
+        "answer": "vediamo",
+        "translation": "We see our cousins every summer.",
+        "audio": "222_Noi_vediamo_i_nostri_cugini_ogni_estate.mp3"
+    },
+    {
+        "id": 223,
+        "prompt": "Voi {input} (vivere) in una casa in montagna.",
+        "answer": "vivete",
+        "translation": "You guys live in a house in the mountains.",
+        "audio": "223_Voi_vivete_in_una_casa_in_montagna.mp3"
+    },
+    {
+        "id": 224,
+        "prompt": "Loro {input} (correre) una gara di beneficenza.",
+        "answer": "corrono",
+        "translation": "They run a charity race.",
+        "audio": "224_Loro_corrono_una_gara_di_beneficenza.mp3"
+    },
+    {
+        "id": 225,
+        "prompt": "Io {input} (scrivere) una recensione di un libro.",
+        "answer": "scrivo",
+        "translation": "I write a book review.",
+        "audio": "225_Io_scrivo_una_recensione_di_un_libro.mp3"
+    },
+    {
+        "id": 226,
+        "prompt": "Tu {input} (vedere) il cielo stellato.",
+        "answer": "vedi",
+        "translation": "You see the starry sky.",
+        "audio": "226_Tu_vedi_il_cielo_stellato.mp3"
+    },
+    {
+        "id": 227,
+        "prompt": "Lei {input} (vivere) una vita felice.",
+        "answer": "vive",
+        "translation": "She lives a happy life.",
+        "audio": "227_Lei_vive_una_vita_felice.mp3"
+    },
+    {
+        "id": 228,
+        "prompt": "Noi {input} (prendere) il bus ogni mattina.",
+        "answer": "prendiamo",
+        "translation": "We take the bus every morning.",
+        "audio": "228_Noi_prendiamo_il_bus_ogni_mattina.mp3"
+    },
+    {
+        "id": 229,
+        "prompt": "Voi {input} (scrivere) una relazione per il lavoro.",
+        "answer": "scrivete",
+        "translation": "You guys write a work report.",
+        "audio": "229_Voi_scrivete_una_relazione_per_il_lavoro.mp3"
+    },
+    {
+        "id": 230,
+        "prompt": "Loro {input} (correre) una maratona annuale.",
+        "answer": "corrono",
+        "translation": "They run an annual marathon.",
+        "audio": "230_Loro_corrono_una_maratona_annuale.mp3"
+    },
+    {
+        "id": 231,
+        "prompt": "Io {input} (vedere) la luna piena.",
+        "answer": "vedo",
+        "translation": "I see the full moon.",
+        "audio": "231_Io_vedo_la_luna_piena.mp3"
+    },
+    {
+        "id": 232,
+        "prompt": "Tu {input} (vivere) vicino al parco.",
+        "answer": "vivi",
+        "translation": "You live near the park.",
+        "audio": "232_Tu_vivi_vicino_al_parco.mp3"
+    },
+    {
+        "id": 233,
+        "prompt": "Lui {input} (prendere) un caffè dopo pranzo.",
+        "answer": "prende",
+        "translation": "He has a coffee after lunch.",
+        "audio": "233_Lui_prende_un_caffe_dopo_pranzo.mp3"
+    },
+    {
+        "id": 234,
+        "prompt": "Noi {input} (scrivere) una canzone.",
+        "answer": "scriviamo",
+        "translation": "We write a song.",
+        "audio": "234_Noi_scriviamo_una_canzone.mp3"
+    },
+    {
+        "id": 235,
+        "prompt": "Voi {input} (vedere) il museo della città.",
+        "answer": "vedete",
+        "translation": "You guys see the city museum.",
+        "audio": "235_Voi_vedete_il_museo_della_citta.mp3"
+    },
+    {
+        "id": 236,
+        "prompt": "Loro {input} (vivere) con i genitori.",
+        "answer": "vivono",
+        "translation": "They live with their parents.",
+        "audio": "236_Loro_vivono_con_i_genitori.mp3"
+    },
+    {
+        "id": 237,
+        "prompt": "Io {input} (correre) ogni sabato mattina.",
+        "answer": "corro",
+        "translation": "I run every Saturday morning.",
+        "audio": "237_Io_corro_ogni_sabato_mattina.mp3"
+    },
+    {
+        "id": 238,
+        "prompt": "Tu {input} (prendere) lezioni di tennis.",
+        "answer": "prendi",
+        "translation": "You take tennis lessons.",
+        "audio": "238_Tu_prendi_lezioni_di_tennis.mp3"
+    },
+    {
+        "id": 239,
+        "prompt": "Lui {input} (scrivere) una lettera alla sua famiglia.",
+        "answer": "scrive",
+        "translation": "He writes a letter to his family.",
+        "audio": "239_Lui_scrive_una_lettera_alla_sua_famiglia.mp3"
+    },
+    {
+        "id": 240,
+        "prompt": "Noi {input} (vedere) i nostri amici il fine settimana.",
+        "answer": "vediamo",
+        "translation": "We see our friends on the weekend.",
+        "audio": "240_Noi_vediamo_i_nostri_amici_il_fine_settimana.mp3"
+    },
+    {
+        "id": 241,
+        "prompt": "Voi {input} (vivere) in un piccolo paese.",
+        "answer": "vivete",
+        "translation": "You guys live in a small village.",
+        "audio": "241_Voi_vivete_in_un_piccolo_paese.mp3"
+    },
+    {
+        "id": 242,
+        "prompt": "Loro {input} (correre) per la città.",
+        "answer": "corrono",
+        "translation": "They run through the city.",
+        "audio": "242_Loro_corrono_per_la_citta.mp3"
+    },
+    {
+        "id": 243,
+        "prompt": "Io {input} (scrivere) sul mio blog.",
+        "answer": "scrivo",
+        "translation": "I write on my blog.",
+        "audio": "243_Io_scrivo_sul_mio_blog.mp3"
+    },
+    {
+        "id": 244,
+        "prompt": "Tu {input} (vedere) la torre famosa.",
+        "answer": "vedi",
+        "translation": "You see the famous tower.",
+        "audio": "244_Tu_vedi_la_torre_famosa.mp3"
+    },
+    {
+        "id": 245,
+        "prompt": "Lei {input} (vivere) in una casa in affitto.",
+        "answer": "vive",
+        "translation": "She lives in a rental house.",
+        "audio": "245_Lei_vive_in_una_casa_in_affitto.mp3"
+    },
+    {
+        "id": 246,
+        "prompt": "Noi {input} (prendere) un treno per Roma.",
+        "answer": "prendiamo",
+        "translation": "We take a train to Rome.",
+        "audio": "246_Noi_prendiamo_un_treno_per_Roma.mp3"
+    },
+    {
+        "id": 247,
+        "prompt": "Voi {input} (scrivere) un articolo per il giornale scolastico.",
+        "answer": "scrivete",
+        "translation": "You guys write an article for the school newspaper.",
+        "audio": "247_Voi_scrivete_un_articolo_per_il_giornale_scolastico.mp3"
+    },
+    {
+        "id": 248,
+        "prompt": "Loro {input} (correre) la maratona di New York.",
+        "answer": "corrono",
+        "translation": "They run the New York marathon.",
+        "audio": "248_Loro_corrono_la_maratona_di_New_York.mp3"
+    },
+    {
+        "id": 249,
+        "prompt": "Io {input} (vedere) un film al cinema stasera.",
+        "answer": "vedo",
+        "translation": "I watch a movie at the cinema tonight.",
+        "audio": "249_Io_vedo_un_film_al_cinema_stasera.mp3"
+    },
+    {
+        "id": 250,
+        "prompt": "Tu {input} (vivere) in una casa con giardino.",
+        "answer": "vivi",
+        "translation": "You live in a house with a garden.",
+        "audio": "250_Tu_vivi_in_una_casa_con_giardino.mp3"
+    },
+    {
+        "id": 251,
+        "prompt": "Io {input} (prendere) il treno per Milano.",
+        "answer": "prendo",
+        "translation": "I take the train to Milan.",
+        "audio": "251_Io_prendo_il_treno_per_Milano.mp3"
+    },
+    {
+        "id": 252,
+        "prompt": "Tu {input} (scrivere) una nota nel quaderno.",
+        "answer": "scrivi",
+        "translation": "You write a note in the notebook.",
+        "audio": "252_Tu_scrivi_una_nota_nel_quaderno.mp3"
+    },
+    {
+        "id": 253,
+        "prompt": "Lei {input} (vedere) i bambini giocare.",
+        "answer": "vede",
+        "translation": "She sees the children playing.",
+        "audio": "253_Lei_vede_i_bambini_giocare.mp3"
+    },
+    {
+        "id": 254,
+        "prompt": "Noi {input} (vivere) in una casa con piscina.",
+        "answer": "viviamo",
+        "translation": "We live in a house with a pool.",
+        "audio": "254_Noi_viviamo_in_una_casa_con_piscina.mp3"
+    },
+    {
+        "id": 255,
+        "prompt": "Voi {input} (correre) sulla spiaggia.",
+        "answer": "correte",
+        "translation": "You guys run on the beach.",
+        "audio": "255_Voi_correte_sulla_spiaggia.mp3"
+    },
+    {
+        "id": 256,
+        "prompt": "Loro {input} (prendere) un tè caldo.",
+        "answer": "prendono",
+        "translation": "They have a hot tea.",
+        "audio": "256_Loro_prendono_un_te_caldo.mp3"
+    },
+    {
+        "id": 257,
+        "prompt": "Io {input} (scrivere) un'email al professore.",
+        "answer": "scrivo",
+        "translation": "I write an email to the professor.",
+        "audio": "257_Io_scrivo_unemail_al_professore.mp3"
+    },
+    {
+        "id": 258,
+        "prompt": "Tu {input} (vedere) un cane al parco.",
+        "answer": "vedi",
+        "translation": "You see a dog at the park.",
+        "audio": "258_Tu_vedi_un_cane_al_parco.mp3"
+    },
+    {
+        "id": 259,
+        "prompt": "Lui {input} (vivere) in una grande città.",
+        "answer": "vive",
+        "translation": "He lives in a big city.",
+        "audio": "259_Lui_vive_in_una_grande_citta.mp3"
+    },
+    {
+        "id": 260,
+        "prompt": "Noi {input} (correre) ogni mattina.",
+        "answer": "corriamo",
+        "translation": "We run every morning.",
+        "audio": "260_Noi_corriamo_ogni_mattina.mp3"
+    },
+    {
+        "id": 261,
+        "prompt": "Voi {input} (prendere) una pausa pranzo.",
+        "answer": "prendete",
+        "translation": "You guys take a lunch break.",
+        "audio": "261_Voi_prendete_una_pausa_pranzo.mp3"
+    },
+    {
+        "id": 262,
+        "prompt": "Loro {input} (scrivere) un diario ogni giorno.",
+        "answer": "scrivono",
+        "translation": "They write a diary every day.",
+        "audio": "262_Loro_scrivono_un_diario_ogni_giorno.mp3"
+    },
+    {
+        "id": 263,
+        "prompt": "Io {input} (vedere) una stella cadente.",
+        "answer": "vedo",
+        "translation": "I see a shooting star.",
+        "audio": "263_Io_vedo_una_stella_cadente.mp3"
+    },
+    {
+        "id": 264,
+        "prompt": "Tu {input} (vivere) vicino al mare.",
+        "answer": "vivi",
+        "translation": "You live near the sea.",
+        "audio": "264_Tu_vivi_vicino_al_mare.mp3"
+    },
+    {
+        "id": 265,
+        "prompt": "Lei {input} (correre) nel giardino.",
+        "answer": "corre",
+        "translation": "She runs in the garden.",
+        "audio": "265_Lei_corre_nel_giardino.mp3"
+    },
+    {
+        "id": 266,
+        "prompt": "Noi {input} (prendere) il sole in spiaggia.",
+        "answer": "prendiamo",
+        "translation": "We sunbathe on the beach.",
+        "audio": "266_Noi_prendiamo_il_sole_in_spiaggia.mp3"
+    },
+    {
+        "id": 267,
+        "prompt": "Voi {input} (scrivere) un messaggio di auguri.",
+        "answer": "scrivete",
+        "translation": "You guys write a greeting message.",
+        "audio": "267_Voi_scrivete_un_messaggio_di_auguri.mp3"
+    },
+    {
+        "id": 268,
+        "prompt": "Loro {input} (vedere) un film horror.",
+        "answer": "vedono",
+        "translation": "They watch a horror movie.",
+        "audio": "268_Loro_vedono_un_film_horror.mp3"
+    },
+    {
+        "id": 269,
+        "prompt": "Io {input} (vivere) una vita serena.",
+        "answer": "vivo",
+        "translation": "I live a peaceful life.",
+        "audio": "269_Io_vivo_una_vita_serena.mp3"
+    },
+    {
+        "id": 270,
+        "prompt": "Tu {input} (correre) ogni sera.",
+        "answer": "corri",
+        "translation": "You run every evening.",
+        "audio": "270_Tu_corri_ogni_sera.mp3"
+    },
+    {
+        "id": 271,
+        "prompt": "Lei {input} (prendere) il bus per andare a lavoro.",
+        "answer": "prende",
+        "translation": "She takes the bus to go to work.",
+        "audio": "271_Lei_prende_il_bus_per_andare_a_lavoro.mp3"
+    },
+    {
+        "id": 272,
+        "prompt": "Noi {input} (scrivere) un progetto.",
+        "answer": "scriviamo",
+        "translation": "We write a project.",
+        "audio": "272_Noi_scriviamo_un_progetto.mp3"
+    },
+    {
+        "id": 273,
+        "prompt": "Voi {input} (vedere) una commedia teatrale.",
+        "answer": "vedete",
+        "translation": "You guys watch a play.",
+        "audio": "273_Voi_vedete_una_commedia_teatrale.mp3"
+    },
+    {
+        "id": 274,
+        "prompt": "Loro {input} (vivere) in una casa di campagna.",
+        "answer": "vivono",
+        "translation": "They live in a country house.",
+        "audio": "274_Loro_vivono_in_una_casa_di_campagna.mp3"
+    },
+    {
+        "id": 275,
+        "prompt": "Io {input} (correre) al parco con il cane.",
+        "answer": "corro",
+        "translation": "I run in the park with the dog.",
+        "audio": "275_Io_corro_al_parco_con_il_cane.mp3"
+    },
+    {
+        "id": 276,
+        "prompt": "Tu {input} (prendere) lezioni di danza.",
+        "answer": "prendi",
+        "translation": "You take dance lessons.",
+        "audio": "276_Tu_prendi_lezioni_di_danza.mp3"
+    },
+    {
+        "id": 277,
+        "prompt": "Lui {input} (scrivere) una lettera a un amico.",
+        "answer": "scrive",
+        "translation": "He writes a letter to a friend.",
+        "audio": "277_Lui_scrive_una_lettera_a_un_amico.mp3"
+    },
+    {
+        "id": 278,
+        "prompt": "Noi {input} (vedere) il mare dalla finestra.",
+        "answer": "vediamo",
+        "translation": "We see the sea from the window.",
+        "audio": "278_Noi_vediamo_il_mare_dalla_finestra.mp3"
+    },
+    {
+        "id": 279,
+        "prompt": "Voi {input} (vivere) in un appartamento.",
+        "answer": "vivete",
+        "translation": "You guys live in an apartment.",
+        "audio": "279_Voi_vivete_in_un_appartamento.mp3"
+    },
+    {
+        "id": 280,
+        "prompt": "Loro {input} (correre) alla maratona cittadina.",
+        "answer": "corrono",
+        "translation": "They run in the city marathon.",
+        "audio": "280_Loro_corrono_alla_maratona_cittadina.mp3"
+    },
+    {
+        "id": 281,
+        "prompt": "Io {input} (prendere) il bus per andare a scuola.",
+        "answer": "prendo",
+        "translation": "I take the bus to go to school.",
+        "audio": "281_Io_prendo_il_bus_per_andare_a_scuola.mp3"
+    },
+    {
+        "id": 282,
+        "prompt": "Tu {input} (scrivere) una poesia per l'amica.",
+        "answer": "scrivi",
+        "translation": "You write a poem for the friend.",
+        "audio": "282_Tu_scrivi_una_poesia_per_lamica.mp3"
+    },
+    {
+        "id": 283,
+        "prompt": "Lei {input} (vedere) la Torre di Pisa.",
+        "answer": "vede",
+        "translation": "She sees the Leaning Tower of Pisa.",
+        "audio": "283_Lei_vede_la_Torre_di_Pisa.mp3"
+    },
+    {
+        "id": 284,
+        "prompt": "Noi {input} (vivere) una giornata felice.",
+        "answer": "viviamo",
+        "translation": "We live a happy day.",
+        "audio": "284_Noi_viviamo_una_giornata_felice.mp3"
+    },
+    {
+        "id": 285,
+        "prompt": "Voi {input} (correre) lungo il fiume.",
+        "answer": "correte",
+        "translation": "You guys run along the river.",
+        "audio": "285_Voi_correte_lungo_il_fiume.mp3"
+    },
+    {
+        "id": 286,
+        "prompt": "Loro {input} (prendere) lezioni di sci.",
+        "answer": "prendono",
+        "translation": "They take ski lessons.",
+        "audio": "286_Loro_prendono_lezioni_di_sci.mp3"
+    },
+    {
+        "id": 287,
+        "prompt": "Io {input} (scrivere) una nota al collega.",
+        "answer": "scrivo",
+        "translation": "I write a note to the colleague.",
+        "audio": "287_Io_scrivo_una_nota_al_collega.mp3"
+    },
+    {
+        "id": 288,
+        "prompt": "Tu {input} (vedere) una mostra d'arte moderna.",
+        "answer": "vedi",
+        "translation": "You see a modern art exhibition.",
+        "audio": "288_Tu_vedi_una_mostra_darte_moderna.mp3"
+    },
+    {
+        "id": 289,
+        "prompt": "Lui {input} (vivere) una vita semplice.",
+        "answer": "vive",
+        "translation": "He lives a simple life.",
+        "audio": "289_Lui_vive_una_vita_semplice.mp3"
+    },
+    {
+        "id": 290,
+        "prompt": "Noi {input} (prendere) un taxi per l'aeroporto.",
+        "answer": "prendiamo",
+        "translation": "We take a taxi to the airport.",
+        "audio": "290_Noi_prendiamo_un_taxi_per_laeroporto.mp3"
+    },
+    {
+        "id": 291,
+        "prompt": "Voi {input} (scrivere) un articolo di giornale.",
+        "answer": "scrivete",
+        "translation": "You guys write a newspaper article.",
+        "audio": "291_Voi_scrivete_un_articolo_di_giornale.mp3"
+    },
+    {
+        "id": 292,
+        "prompt": "Loro {input} (vedere) una cascata.",
+        "answer": "vedono",
+        "translation": "They see a waterfall.",
+        "audio": "292_Loro_vedono_una_cascata.mp3"
+    },
+    {
+        "id": 293,
+        "prompt": "Io {input} (vivere) con la mia famiglia.",
+        "answer": "vivo",
+        "translation": "I live with my family.",
+        "audio": "293_Io_vivo_con_la_mia_famiglia.mp3"
+    },
+    {
+        "id": 294,
+        "prompt": "Tu {input} (correre) nel parco con gli amici.",
+        "answer": "corri",
+        "translation": "You run in the park with friends.",
+        "audio": "294_Tu_corri_nel_parco_con_gli_amici.mp3"
+    },
+    {
+        "id": 295,
+        "prompt": "Lei {input} (prendere) lezioni di canto.",
+        "answer": "prende",
+        "translation": "She takes singing lessons.",
+        "audio": "295_Lei_prende_lezioni_di_canto.mp3"
+    },
+    {
+        "id": 296,
+        "prompt": "Noi {input} (scrivere) una lettera al sindaco.",
+        "answer": "scriviamo",
+        "translation": "We write a letter to the mayor.",
+        "audio": "296_Noi_scriviamo_una_lettera_al_sindaco.mp3"
+    },
+    {
+        "id": 297,
+        "prompt": "Voi {input} (vedere) il tramonto dal balcone.",
+        "answer": "vedete",
+        "translation": "You guys see the sunset from the balcony.",
+        "audio": "297_Voi_vedete_il_tramonto_dal_balcone.mp3"
+    },
+    {
+        "id": 298,
+        "prompt": "Loro {input} (vivere) in una città tranquilla.",
+        "answer": "vivono",
+        "translation": "They live in a quiet city.",
+        "audio": "298_Loro_vivono_in_una_citta_tranquilla.mp3"
+    },
+    {
+        "id": 299,
+        "prompt": "Io {input} (prendere) un libro dalla biblioteca.",
+        "answer": "prendo",
+        "translation": "I take a book from the library.",
+        "audio": "299_Io_prendo_un_libro_dalla_biblioteca.mp3"
+    },
+    {
+        "id": 300,
+        "prompt": "Tu {input} (scrivere) un messaggio al dottore.",
+        "answer": "scrivi",
+        "translation": "You write a message to the doctor.",
+        "audio": "300_Tu_scrivi_un_messaggio_al_dottore.mp3"
+    },
+    {
+        "id": 301,
+        "prompt": "Io {input} (correre) in montagna.",
+        "answer": "corro",
+        "translation": "I run in the mountains.",
+        "audio": "301_Io_corro_in_montagna.mp3"
+    },
+    {
+        "id": 302,
+        "prompt": "Tu {input} (scrivere) una cartolina alla nonna.",
+        "answer": "scrivi",
+        "translation": "You write a postcard to grandma.",
+        "audio": "302_Tu_scrivi_una_cartolina_alla_nonna.mp3"
+    },
+    {
+        "id": 303,
+        "prompt": "Lei {input} (vedere) i colori dell'arcobaleno.",
+        "answer": "vede",
+        "translation": "She sees the colors of the rainbow.",
+        "audio": "303_Lei_vede_i_colori_dellarcobaleno.mp3"
+    },
+    {
+        "id": 304,
+        "prompt": "Noi {input} (vivere) in una piccola città.",
+        "answer": "viviamo",
+        "translation": "We live in a small city.",
+        "audio": "304_Noi_viviamo_in_una_piccola_citta.mp3"
+    },
+    {
+        "id": 305,
+        "prompt": "Voi {input} (prendere) il treno delle sette.",
+        "answer": "prendete",
+        "translation": "You guys take the seven o'clock train.",
+        "audio": "305_Voi_prendete_il_treno_delle_sette.mp3"
+    },
+    {
+        "id": 306,
+        "prompt": "Loro {input} (correre) nel bosco.",
+        "answer": "corrono",
+        "translation": "They run in the forest.",
+        "audio": "306_Loro_corrono_nel_bosco.mp3"
+    },
+    {
+        "id": 307,
+        "prompt": "Io {input} (scrivere) un libro di cucina.",
+        "answer": "scrivo",
+        "translation": "I write a cookbook.",
+        "audio": "307_Io_scrivo_un_libro_di_cucina.mp3"
+    },
+    {
+        "id": 308,
+        "prompt": "Tu {input} (vedere) le luci della città.",
+        "answer": "vedi",
+        "translation": "You see the city lights.",
+        "audio": "308_Tu_vedi_le_luci_della_citta.mp3"
+    },
+    {
+        "id": 309,
+        "prompt": "Lui {input} (vivere) una vita piena di avventure.",
+        "answer": "vive",
+        "translation": "He lives a life full of adventures.",
+        "audio": "309_Lui_vive_una_vita_piena_di_avventure.mp3"
+    },
+    {
+        "id": 310,
+        "prompt": "Noi {input} (prendere) un caffè insieme.",
+        "answer": "prendiamo",
+        "translation": "We have a coffee together.",
+        "audio": "310_Noi_prendiamo_un_caffe_insieme.mp3"
+    },
+    {
+        "id": 311,
+        "prompt": "Voi {input} (scrivere) una poesia in rima.",
+        "answer": "scrivete",
+        "translation": "You guys write a rhyming poem.",
+        "audio": "311_Voi_scrivete_una_poesia_in_rima.mp3"
+    },
+    {
+        "id": 312,
+        "prompt": "Loro {input} (vedere) il castello antico.",
+        "answer": "vedono",
+        "translation": "They see the ancient castle.",
+        "audio": "312_Loro_vedono_il_castello_antico.mp3"
+    },
+    {
+        "id": 313,
+        "prompt": "Io {input} (vivere) una vita tranquilla.",
+        "answer": "vivo",
+        "translation": "I live a quiet life.",
+        "audio": "313_Io_vivo_una_vita_tranquilla.mp3"
+    },
+    {
+        "id": 314,
+        "prompt": "Tu {input} (correre) ogni mattina presto.",
+        "answer": "corri",
+        "translation": "You run early every morning.",
+        "audio": "314_Tu_corri_ogni_mattina_presto.mp3"
+    },
+    {
+        "id": 315,
+        "prompt": "Lei {input} (prendere) il latte dal frigorifero.",
+        "answer": "prende",
+        "translation": "She takes the milk from the fridge.",
+        "audio": "315_Lei_prende_il_latte_dal_frigorifero.mp3"
+    },
+    {
+        "id": 316,
+        "prompt": "Noi {input} (scrivere) una lista di cose da fare.",
+        "answer": "scriviamo",
+        "translation": "We write a to-do list.",
+        "audio": "316_Noi_scriviamo_una_lista_di_cose_da_fare.mp3"
+    },
+    {
+        "id": 317,
+        "prompt": "Voi {input} (vedere) il sole sorgere.",
+        "answer": "vedete",
+        "translation": "You guys see the sunrise.",
+        "audio": "317_Voi_vedete_il_sole_sorgere.mp3"
+    },
+    {
+        "id": 318,
+        "prompt": "Loro {input} (vivere) in una casa grande.",
+        "answer": "vivono",
+        "translation": "They live in a big house.",
+        "audio": "318_Loro_vivono_in_una_casa_grande.mp3"
+    },
+    {
+        "id": 319,
+        "prompt": "Io {input} (correre) velocemente.",
+        "answer": "corro",
+        "translation": "I run fast.",
+        "audio": "319_Io_corro_velocemente.mp3"
+    },
+    {
+        "id": 320,
+        "prompt": "Tu {input} (scrivere) una lettera d'amore.",
+        "answer": "scrivi",
+        "translation": "You write a love letter.",
+        "audio": "320_Tu_scrivi_una_lettera_damore.mp3"
+    },
+    {
+        "id": 321,
+        "prompt": "Lui {input} (vedere) il film alla TV.",
+        "answer": "vede",
+        "translation": "He watches the movie on TV.",
+        "audio": "321_Lui_vede_il_film_alla_TV.mp3"
+    },
+    {
+        "id": 322,
+        "prompt": "Noi {input} (vivere) vicino alla stazione.",
+        "answer": "viviamo",
+        "translation": "We live near the station.",
+        "audio": "322_Noi_viviamo_vicino_alla_stazione.mp3"
+    },
+    {
+        "id": 323,
+        "prompt": "Voi {input} (prendere) un taxi per il centro.",
+        "answer": "prendete",
+        "translation": "You guys take a taxi to the center.",
+        "audio": "323_Voi_prendete_un_taxi_per_il_centro.mp3"
+    },
+    {
+        "id": 324,
+        "prompt": "Loro {input} (correre) ogni giorno al parco.",
+        "answer": "corrono",
+        "translation": "They run every day in the park.",
+        "audio": "324_Loro_corrono_ogni_giorno_al_parco.mp3"
+    },
+    {
+        "id": 325,
+        "prompt": "Io {input} (scrivere) una storia di fantasia.",
+        "answer": "scrivo",
+        "translation": "I write a fantasy story.",
+        "audio": "325_Io_scrivo_una_storia_di_fantasia.mp3"
+    },
+    {
+        "id": 326,
+        "prompt": "Tu {input} (vedere) un documentario sugli animali.",
+        "answer": "vedi",
+        "translation": "You watch a documentary about animals.",
+        "audio": "326_Tu_vedi_un_documentario_sugli_animali.mp3"
+    },
+    {
+        "id": 327,
+        "prompt": "Lei {input} (vivere) in una casa colorata.",
+        "answer": "vive",
+        "translation": "She lives in a colorful house.",
+        "audio": "327_Lei_vive_in_una_casa_colorata.mp3"
+    },
+    {
+        "id": 328,
+        "prompt": "Noi {input} (prendere) un caffè dopo pranzo.",
+        "answer": "prendiamo",
+        "translation": "We have a coffee after lunch.",
+        "audio": "328_Noi_prendiamo_un_caffe_dopo_pranzo.mp3"
+    },
+    {
+        "id": 329,
+        "prompt": "Voi {input} (scrivere) una lettera al preside.",
+        "answer": "scrivete",
+        "translation": "You guys write a letter to the principal.",
+        "audio": "329_Voi_scrivete_una_lettera_al_preside.mp3"
+    },
+    {
+        "id": 330,
+        "prompt": "Loro {input} (vedere) un gatto sul tetto.",
+        "answer": "vedono",
+        "translation": "They see a cat on the roof.",
+        "audio": "330_Loro_vedono_un_gatto_sul_tetto.mp3"
+    },
+    {
+        "id": 331,
+        "prompt": "Io {input} (vivere) vicino alla scuola.",
+        "answer": "vivo",
+        "translation": "I live near the school.",
+        "audio": "331_Io_vivo_vicino_alla_scuola.mp3"
+    },
+    {
+        "id": 332,
+        "prompt": "Tu {input} (correre) per prendere l'autobus.",
+        "answer": "corri",
+        "translation": "You run to catch the bus.",
+        "audio": "332_Tu_corri_per_prendere_lautobus.mp3"
+    },
+    {
+        "id": 333,
+        "prompt": "Lei {input} (prendere) una pastiglia per il mal di testa.",
+        "answer": "prende",
+        "translation": "She takes a pill for the headache.",
+        "audio": "333_Lei_prende_una_pastiglia_per_il_mal_di_testa.mp3"
+    },
+    {
+        "id": 334,
+        "prompt": "Noi {input} (scrivere) una lettera di scuse.",
+        "answer": "scriviamo",
+        "translation": "We write a letter of apology.",
+        "audio": "334_Noi_scriviamo_una_lettera_di_scuse.mp3"
+    },
+    {
+        "id": 335,
+        "prompt": "Voi {input} (vedere) il tramonto dalla collina.",
+        "answer": "vedete",
+        "translation": "You guys see the sunset from the hill.",
+        "audio": "335_Voi_vedete_il_tramonto_dalla_collina.mp3"
+    },
+    {
+        "id": 336,
+        "prompt": "Loro {input} (vivere) in una casa bianca.",
+        "answer": "vivono",
+        "translation": "They live in a white house.",
+        "audio": "336_Loro_vivono_in_una_casa_bianca.mp3"
+    },
+    {
+        "id": 337,
+        "prompt": "Io {input} (correre) ogni sera dopo cena.",
+        "answer": "corro",
+        "translation": "I run every evening after dinner.",
+        "audio": "337_Io_corro_ogni_sera_dopo_cena.mp3"
+    },
+    {
+        "id": 338,
+        "prompt": "Tu {input} (prendere) il numero di telefono.",
+        "answer": "prendi",
+        "translation": "You take the phone number.",
+        "audio": "338_Tu_prendi_il_numero_di_telefono.mp3"
+    },
+    {
+        "id": 339,
+        "prompt": "Lui {input} (scrivere) un articolo scientifico.",
+        "answer": "scrive",
+        "translation": "He writes a scientific article.",
+        "audio": "339_Lui_scrive_un_articolo_scientifico.mp3"
+    },
+    {
+        "id": 340,
+        "prompt": "Noi {input} (vedere) un film giallo.",
+        "answer": "vediamo",
+        "translation": "We watch a mystery movie.",
+        "audio": "340_Noi_vediamo_un_film_giallo.mp3"
+    },
+    {
+        "id": 341,
+        "prompt": "Voi {input} (vivere) con i vostri nonni.",
+        "answer": "vivete",
+        "translation": "You guys live with your grandparents.",
+        "audio": "341_Voi_vivete_con_i_vostri_nonni.mp3"
+    },
+    {
+        "id": 342,
+        "prompt": "Loro {input} (correre) sulla pista da corsa.",
+        "answer": "corrono",
+        "translation": "They run on the race track.",
+        "audio": "342_Loro_corrono_sulla_pista_da_corsa.mp3"
+    },
+    {
+        "id": 343,
+        "prompt": "Io {input} (scrivere) una lettera di ringraziamento.",
+        "answer": "scrivo",
+        "translation": "I write a thank-you letter.",
+        "audio": "343_Io_scrivo_una_lettera_di_ringraziamento.mp3"
+    },
+    {
+        "id": 344,
+        "prompt": "Tu {input} (vedere) il cielo al tramonto.",
+        "answer": "vedi",
+        "translation": "You see the sky at sunset.",
+        "audio": "344_Tu_vedi_il_cielo_al_tramonto.mp3"
+    },
+    {
+        "id": 345,
+        "prompt": "Lei {input} (vivere) con i suoi genitori.",
+        "answer": "vive",
+        "translation": "She lives with her parents.",
+        "audio": "345_Lei_vive_con_i_suoi_genitori.mp3"
+    },
+    {
+        "id": 346,
+        "prompt": "Noi {input} (prendere) l'autobus ogni mattina.",
+        "answer": "prendiamo",
+        "translation": "We take the bus every morning.",
+        "audio": "346_Noi_prendiamo_lautobus_ogni_mattina.mp3"
+    },
+    {
+        "id": 347,
+        "prompt": "Voi {input} (scrivere) una lista della spesa.",
+        "answer": "scrivete",
+        "translation": "You guys write a shopping list.",
+        "audio": "347_Voi_scrivete_una_lista_della_spesa.mp3"
+    },
+    {
+        "id": 348,
+        "prompt": "Loro {input} (vedere) il parco giochi.",
+        "answer": "vedono",
+        "translation": "They see the playground.",
+        "audio": "348_Loro_vedono_il_parco_giochi.mp3"
+    },
+    {
+        "id": 349,
+        "prompt": "Io {input} (vivere) in una città diversa.",
+        "answer": "vivo",
+        "translation": "I live in a different city.",
+        "audio": "349_Io_vivo_in_una_citta_diversa.mp3"
+    },
+    {
+        "id": 350,
+        "prompt": "Tu {input} (correre) fino alla stazione.",
+        "answer": "corri",
+        "translation": "You run to the station.",
+        "audio": "350_Tu_corri_fino_alla_stazione.mp3"
+    },
+    {
+        "id": 351,
+        "prompt": "Io {input} (prendere) il treno per Venezia.",
+        "answer": "prendo",
+        "translation": "I take the train to Venice.",
+        "audio": "351_Io_prendo_il_treno_per_Venezia.mp3"
+    },
+    {
+        "id": 352,
+        "prompt": "Tu {input} (scrivere) una poesia per l'amico.",
+        "answer": "scrivi",
+        "translation": "You write a poem for the friend.",
+        "audio": "352_Tu_scrivi_una_poesia_per_lamico.mp3"
+    },
+    {
+        "id": 353,
+        "prompt": "Lei {input} (vedere) il mare dalla terrazza.",
+        "answer": "vede",
+        "translation": "She sees the sea from the terrace.",
+        "audio": "353_Lei_vede_il_mare_dalla_terrazza.mp3"
+    },
+    {
+        "id": 354,
+        "prompt": "Noi {input} (vivere) in una casa in collina.",
+        "answer": "viviamo",
+        "translation": "We live in a house on the hill.",
+        "audio": "354_Noi_viviamo_in_una_casa_in_collina.mp3"
+    },
+    {
+        "id": 355,
+        "prompt": "Voi {input} (correre) al mare.",
+        "answer": "correte",
+        "translation": "You guys run to the sea.",
+        "audio": "355_Voi_correte_al_mare.mp3"
+    },
+    {
+        "id": 356,
+        "prompt": "Loro {input} (prendere) un gelato.",
+        "answer": "prendono",
+        "translation": "They have an ice cream.",
+        "audio": "356_Loro_prendono_un_gelato.mp3"
+    },
+    {
+        "id": 357,
+        "prompt": "Io {input} (scrivere) una mail di lavoro.",
+        "answer": "scrivo",
+        "translation": "I write a work email.",
+        "audio": "357_Io_scrivo_una_mail_di_lavoro.mp3"
+    },
+    {
+        "id": 358,
+        "prompt": "Tu {input} (vedere) un amico di famiglia.",
+        "answer": "vedi",
+        "translation": "You see a family friend.",
+        "audio": "358_Tu_vedi_un_amico_di_famiglia.mp3"
+    },
+    {
+        "id": 359,
+        "prompt": "Lui {input} (vivere) in un appartamento grande.",
+        "answer": "vive",
+        "translation": "He lives in a big apartment.",
+        "audio": "359_Lui_vive_in_un_appartamento_grande.mp3"
+    },
+    {
+        "id": 360,
+        "prompt": "Noi {input} (correre) al parco ogni domenica.",
+        "answer": "corriamo",
+        "translation": "We run in the park every Sunday.",
+        "audio": "360_Noi_corriamo_al_parco_ogni_domenica.mp3"
+    },
+    {
+        "id": 361,
+        "prompt": "Voi {input} (prendere) il sole in giardino.",
+        "answer": "prendete",
+        "translation": "You guys sunbathe in the garden.",
+        "audio": "361_Voi_prendete_il_sole_in_giardino.mp3"
+    },
+    {
+        "id": 362,
+        "prompt": "Loro {input} (scrivere) un articolo per la rivista.",
+        "answer": "scrivono",
+        "translation": "They write an article for the magazine.",
+        "audio": "362_Loro_scrivono_un_articolo_per_la_rivista.mp3"
+    },
+    {
+        "id": 363,
+        "prompt": "Io {input} (vedere) un quadro famoso.",
+        "answer": "vedo",
+        "translation": "I see a famous painting.",
+        "audio": "363_Io_vedo_un_quadro_famoso.mp3"
+    },
+    {
+        "id": 364,
+        "prompt": "Tu {input} (vivere) in una casa piccola.",
+        "answer": "vivi",
+        "translation": "You live in a small house.",
+        "audio": "364_Tu_vivi_in_una_casa_piccola.mp3"
+    },
+    {
+        "id": 365,
+        "prompt": "Lei {input} (correre) nel parco ogni giorno.",
+        "answer": "corre",
+        "translation": "She runs in the park every day.",
+        "audio": "365_Lei_corre_nel_parco_ogni_giorno.mp3"
+    },
+    {
+        "id": 366,
+        "prompt": "Noi {input} (prendere) un caffè al bar.",
+        "answer": "prendiamo",
+        "translation": "We have a coffee at the bar.",
+        "audio": "366_Noi_prendiamo_un_caffe_al_bar.mp3"
+    },
+    {
+        "id": 367,
+        "prompt": "Voi {input} (scrivere) un diario personale.",
+        "answer": "scrivete",
+        "translation": "You guys write a personal diary.",
+        "audio": "367_Voi_scrivete_un_diario_personale.mp3"
+    },
+    {
+        "id": 368,
+        "prompt": "Loro {input} (vedere) il mare dalla finestra.",
+        "answer": "vedono",
+        "translation": "They see the sea from the window.",
+        "audio": "368_Loro_vedono_il_mare_dalla_finestra.mp3"
+    },
+    {
+        "id": 369,
+        "prompt": "Io {input} (vivere) una vita tranquilla.",
+        "answer": "vivo",
+        "translation": "I live a quiet life.",
+        "audio": "369_Io_vivo_una_vita_tranquilla.mp3"
+    },
+    {
+        "id": 370,
+        "prompt": "Tu {input} (correre) con il cane.",
+        "answer": "corri",
+        "translation": "You run with the dog.",
+        "audio": "370_Tu_corri_con_il_cane.mp3"
+    },
+    {
+        "id": 371,
+        "prompt": "Lei {input} (prendere) lezioni di yoga.",
+        "answer": "prende",
+        "translation": "She takes yoga lessons.",
+        "audio": "371_Lei_prende_lezioni_di_yoga.mp3"
+    },
+    {
+        "id": 372,
+        "prompt": "Noi {input} (scrivere) una storia breve.",
+        "answer": "scriviamo",
+        "translation": "We write a short story.",
+        "audio": "372_Noi_scriviamo_una_storia_breve.mp3"
+    },
+    {
+        "id": 373,
+        "prompt": "Voi {input} (vedere) una mostra d'arte.",
+        "answer": "vedete",
+        "translation": "You guys see an art exhibition.",
+        "audio": "373_Voi_vedete_una_mostra_darte.mp3"
+    },
+    {
+        "id": 374,
+        "prompt": "Loro {input} (vivere) in un appartamento in centro.",
+        "answer": "vivono",
+        "translation": "They live in an apartment downtown.",
+        "audio": "374_Loro_vivono_in_un_appartamento_in_centro.mp3"
+    },
+    {
+        "id": 375,
+        "prompt": "Io {input} (correre) ogni giorno.",
+        "answer": "corro",
+        "translation": "I run every day.",
+        "audio": "375_Io_corro_ogni_giorno.mp3"
+    },
+    {
+        "id": 376,
+        "prompt": "Tu {input} (prendere) un taxi per l'aeroporto.",
+        "answer": "prendi",
+        "translation": "You take a taxi to the airport.",
+        "audio": "376_Tu_prendi_un_taxi_per_laeroporto.mp3"
+    },
+    {
+        "id": 377,
+        "prompt": "Lui {input} (scrivere) una canzone.",
+        "answer": "scrive",
+        "translation": "He writes a song.",
+        "audio": "377_Lui_scrive_una_canzone.mp3"
+    },
+    {
+        "id": 378,
+        "prompt": "Noi {input} (vedere) una stella cadente.",
+        "answer": "vediamo",
+        "translation": "We see a shooting star.",
+        "audio": "378_Noi_vediamo_una_stella_cadente.mp3"
+    },
+    {
+        "id": 379,
+        "prompt": "Voi {input} (vivere) in una città turistica.",
+        "answer": "vivete",
+        "translation": "You guys live in a tourist city.",
+        "audio": "379_Voi_vivete_in_una_citta_turistica.mp3"
+    },
+    {
+        "id": 380,
+        "prompt": "Loro {input} (correre) una maratona.",
+        "answer": "corrono",
+        "translation": "They run a marathon.",
+        "audio": "380_Loro_corrono_una_maratona.mp3"
+    },
+    {
+        "id": 381,
+        "prompt": "Io {input} (prendere) un cappuccino.",
+        "answer": "prendo",
+        "translation": "I have a cappuccino.",
+        "audio": "381_Io_prendo_un_cappuccino.mp3"
+    },
+    {
+        "id": 382,
+        "prompt": "Tu {input} (scrivere) una lettera a un amico.",
+        "answer": "scrivi",
+        "translation": "You write a letter to a friend.",
+        "audio": "382_Tu_scrivi_una_lettera_a_un_amico.mp3"
+    },
+    {
+        "id": 383,
+        "prompt": "Lei {input} (vedere) una foto della famiglia.",
+        "answer": "vede",
+        "translation": "She sees a family photo.",
+        "audio": "383_Lei_vede_una_foto_della_famiglia.mp3"
+    },
+    {
+        "id": 384,
+        "prompt": "Noi {input} (vivere) in un paese di montagna.",
+        "answer": "viviamo",
+        "translation": "We live in a mountain village.",
+        "audio": "384_Noi_viviamo_in_un_paese_di_montagna.mp3"
+    },
+    {
+        "id": 385,
+        "prompt": "Voi {input} (correre) ogni sabato.",
+        "answer": "correte",
+        "translation": "You guys run every Saturday.",
+        "audio": "385_Voi_corrette_ogni_sabato.mp3"
+    },
+    {
+        "id": 386,
+        "prompt": "Loro {input} (prendere) lezioni di cucina.",
+        "answer": "prendono",
+        "translation": "They take cooking lessons.",
+        "audio": "386_Loro_prendono_lezioni_di_cucina.mp3"
+    },
+    {
+        "id": 387,
+        "prompt": "Io {input} (scrivere) una recensione di un libro.",
+        "answer": "scrivo",
+        "translation": "I write a book review.",
+        "audio": "387_Io_scrivo_una_recensione_di_un_libro.mp3"
+    },
+    {
+        "id": 388,
+        "prompt": "Tu {input} (vedere) un fiore raro.",
+        "answer": "vedi",
+        "translation": "You see a rare flower.",
+        "audio": "388_Tu_vedi_un_fiore_raro.mp3"
+    },
+    {
+        "id": 389,
+        "prompt": "Lui {input} (vivere) vicino al lago.",
+        "answer": "vive",
+        "translation": "He lives near the lake.",
+        "audio": "389_Lui_vive_vicino_al_lago.mp3"
+    },
+    {
+        "id": 390,
+        "prompt": "Noi {input} (correre) per mantenersi in forma.",
+        "answer": "corriamo",
+        "translation": "We run to stay fit.",
+        "audio": "390_Noi_corriamo_per_mantenersi_in_forma.mp3"
+    },
+    {
+        "id": 391,
+        "prompt": "Voi {input} (prendere) il cibo dal frigo.",
+        "answer": "prendete",
+        "translation": "You guys take the food from the fridge.",
+        "audio": "391_Voi_prendete_il_cibo_dal_frigo.mp3"
+    },
+    {
+        "id": 392,
+        "prompt": "Loro {input} (scrivere) una lettera di ringraziamento.",
+        "answer": "scrivono",
+        "translation": "They write a thank-you letter.",
+        "audio": "392_Loro_scrivono_una_lettera_di_ringraziamento.mp3"
+    },
+    {
+        "id": 393,
+        "prompt": "Io {input} (vedere) un'aquila in volo.",
+        "answer": "vedo",
+        "translation": "I see an eagle in flight.",
+        "audio": "393_Io_vedo_unaquila_in_volo.mp3"
+    },
+    {
+        "id": 394,
+        "prompt": "Tu {input} (vivere) vicino alla piazza.",
+        "answer": "vivi",
+        "translation": "You live near the square.",
+        "audio": "394_Tu_vivi_vicino_alla_piazza.mp3"
+    },
+    {
+        "id": 395,
+        "prompt": "Lei {input} (correre) sulla pista da corsa.",
+        "answer": "corre",
+        "translation": "She runs on the race track.",
+        "audio": "395_Lei_corre_sulla_pista_da_corsa.mp3"
+    },
+    {
+        "id": 396,
+        "prompt": "Noi {input} (prendere) il sole in spiaggia.",
+        "answer": "prendiamo",
+        "translation": "We sunbathe on the beach.",
+        "audio": "396_Noi_prendiamo_il_sole_in_spiaggia.mp3"
+    },
+    {
+        "id": 397,
+        "prompt": "Voi {input} (scrivere) una lista di cose da fare.",
+        "answer": "scrivete",
+        "translation": "You guys write a to-do list.",
+        "audio": "397_Voi_scrivete_una_lista_di_cose_da_fare.mp3"
+    },
+    {
+        "id": 398,
+        "prompt": "Loro {input} (vedere) un film al cinema.",
+        "answer": "vedono",
+        "translation": "They watch a movie at the cinema.",
+        "audio": "398_Loro_vedono_un_film_al_cinema.mp3"
+    },
+    {
+        "id": 399,
+        "prompt": "Io {input} (vivere) una vita serena.",
+        "answer": "vivo",
+        "translation": "I live a peaceful life.",
+        "audio": "399_Io_vivo_una_vita_serena.mp3"
+    },
+    {
+        "id": 400,
+        "prompt": "Tu {input} (correre) ogni mattina.",
+        "answer": "corri",
+        "translation": "You run every morning.",
+        "audio": "400_Tu_corri_ogni_mattina.mp3"
+    },
+    {
+        "id": 401,
+        "prompt": "Io {input} (prendere) l'autobus ogni giorno.",
+        "answer": "prendo",
+        "translation": "I take the bus every day.",
+        "audio": "401_Io_prendo_lautobus_ogni_giorno.mp3"
+    },
+    {
+        "id": 402,
+        "prompt": "Tu {input} (scrivere) un'email alla tua professoressa.",
+        "answer": "scrivi",
+        "translation": "You write an email to your professor.",
+        "audio": "402_Tu_scrivi_unemail_alla_tua_professoressa.mp3"
+    },
+    {
+        "id": 403,
+        "prompt": "Lei {input} (vedere) il sole tramontare.",
+        "answer": "vede",
+        "translation": "She sees the sun setting.",
+        "audio": "403_Lei_vede_il_sole_tramontare.mp3"
+    },
+    {
+        "id": 404,
+        "prompt": "Noi {input} (vivere) in una casa con un grande giardino.",
+        "answer": "viviamo",
+        "translation": "We live in a house with a big garden.",
+        "audio": "404_Noi_viviamo_in_una_casa_con_un_grande_giardino.mp3"
+    },
+    {
+        "id": 405,
+        "prompt": "Voi {input} (correre) lungo il fiume.",
+        "answer": "correte",
+        "translation": "You guys run along the river.",
+        "audio": "405_Voi_correte_lungo_il_fiume.mp3"
+    },
+    {
+        "id": 406,
+        "prompt": "Loro {input} (prendere) il caffè ogni mattina.",
+        "answer": "prendono",
+        "translation": "They have coffee every morning.",
+        "audio": "406_Loro_prendono_il_caffe_ogni_mattina.mp3"
+    },
+    {
+        "id": 407,
+        "prompt": "Io {input} (scrivere) una lettera a mia madre.",
+        "answer": "scrivo",
+        "translation": "I write a letter to my mother.",
+        "audio": "407_Io_scrivo_una_lettera_a_mia_madre.mp3"
+    },
+    {
+        "id": 408,
+        "prompt": "Tu {input} (vedere) il mare dal balcone.",
+        "answer": "vedi",
+        "translation": "You see the sea from the balcony.",
+        "audio": "408_Tu_vedi_il_mare_dal_balcone.mp3"
+    },
+    {
+        "id": 409,
+        "prompt": "Lui {input} (vivere) in un piccolo appartamento.",
+        "answer": "vive",
+        "translation": "He lives in a small apartment.",
+        "audio": "409_Lui_vive_in_un_piccolo_appartamento.mp3"
+    },
+    {
+        "id": 410,
+        "prompt": "Noi {input} (correre) ogni domenica mattina.",
+        "answer": "corriamo",
+        "translation": "We run every Sunday morning.",
+        "audio": "410_Noi_corriamo_ogni_domenica_mattina.mp3"
+    },
+    {
+        "id": 411,
+        "prompt": "Voi {input} (prendere) lezioni di nuoto.",
+        "answer": "prendete",
+        "translation": "You guys take swimming lessons.",
+        "audio": "411_Voi_prendete_lezioni_di_nuoto.mp3"
+    },
+    {
+        "id": 412,
+        "prompt": "Loro {input} (scrivere) un racconto per bambini.",
+        "answer": "scrivono",
+        "translation": "They write a children's story.",
+        "audio": "412_Loro_scrivono_un_racconto_per_bambini.mp3"
+    },
+    {
+        "id": 413,
+        "prompt": "Io {input} (vedere) la luna piena.",
+        "answer": "vedo",
+        "translation": "I see the full moon.",
+        "audio": "413_Io_vedo_la_luna_piena.mp3"
+    },
+    {
+        "id": 414,
+        "prompt": "Tu {input} (vivere) in una casa vicino al lago.",
+        "answer": "vivi",
+        "translation": "You live in a house near the lake.",
+        "audio": "414_Tu_vivi_in_una_casa_vicino_al_lago.mp3"
+    },
+    {
+        "id": 415,
+        "prompt": "Lei {input} (correre) nel parco ogni mattina.",
+        "answer": "corre",
+        "translation": "She runs in the park every morning.",
+        "audio": "415_Lei_corre_nel_parco_ogni_mattina.mp3"
+    },
+    {
+        "id": 416,
+        "prompt": "Noi {input} (prendere) un taxi per andare in città.",
+        "answer": "prendiamo",
+        "translation": "We take a taxi to go to the city.",
+        "audio": "416_Noi_prendiamo_un_taxi_per_andare_in_citta.mp3"
+    },
+    {
+        "id": 417,
+        "prompt": "Voi {input} (scrivere) un articolo per il giornale.",
+        "answer": "scrivete",
+        "translation": "You guys write an article for the newspaper.",
+        "audio": "417_Voi_scrivete_un_articolo_per_il_giornale.mp3"
+    },
+    {
+        "id": 418,
+        "prompt": "Loro {input} (vedere) una stella cadente.",
+        "answer": "vedono",
+        "translation": "They see a shooting star.",
+        "audio": "418_Loro_vedono_una_stella_cadente.mp3"
+    },
+    {
+        "id": 419,
+        "prompt": "Io {input} (vivere) in una città affollata.",
+        "answer": "vivo",
+        "translation": "I live in a crowded city.",
+        "audio": "419_Io_vivo_in_una_citta_affollata.mp3"
+    },
+    {
+        "id": 420,
+        "prompt": "Tu {input} (correre) al parco ogni giorno.",
+        "answer": "corri",
+        "translation": "You run at the park every day.",
+        "audio": "420_Tu_corri_al_parco_ogni_giorno.mp3"
+    },
+    {
+        "id": 421,
+        "prompt": "Lei {input} (prendere) lezioni di pianoforte.",
+        "answer": "prende",
+        "translation": "She takes piano lessons.",
+        "audio": "421_Lei_prende_lezioni_di_pianoforte.mp3"
+    },
+    {
+        "id": 422,
+        "prompt": "Noi {input} (scrivere) una poesia insieme.",
+        "answer": "scriviamo",
+        "translation": "We write a poem together.",
+        "audio": "422_Noi_scriviamo_una_poesia_insieme.mp3"
+    },
+    {
+        "id": 423,
+        "prompt": "Voi {input} (vedere) un'opera d'arte famosa.",
+        "answer": "vedete",
+        "translation": "You guys see a famous work of art.",
+        "audio": "423_Voi_vedete_unopera_darte_famosa.mp3"
+    },
+    {
+        "id": 424,
+        "prompt": "Loro {input} (vivere) in una casa con vista mare.",
+        "answer": "vivono",
+        "translation": "They live in a house with a sea view.",
+        "audio": "424_Loro_vivono_in_una_casa_con_vista_mare.mp3"
+    },
+    {
+        "id": 425,
+        "prompt": "Io {input} (correre) per allenarmi.",
+        "answer": "corro",
+        "translation": "I run to train.",
+        "audio": "425_Io_corro_per_allenarmi.mp3"
+    },
+    {
+        "id": 426,
+        "prompt": "Tu {input} (prendere) un libro dalla biblioteca.",
+        "answer": "prendi",
+        "translation": "You take a book from the library.",
+        "audio": "426_Tu_prendi_un_libro_dalla_biblioteca.mp3"
+    },
+    {
+        "id": 427,
+        "prompt": "Lui {input} (scrivere) un diario ogni sera.",
+        "answer": "scrive",
+        "translation": "He writes a diary every evening.",
+        "audio": "427_Lui_scrive_un_diario_ogni_sera.mp3"
+    },
+    {
+        "id": 428,
+        "prompt": "Noi {input} (vedere) un film d'avventura.",
+        "answer": "vediamo",
+        "translation": "We watch an adventure movie.",
+        "audio": "428_Noi_vediamo_un_film_davventura.mp3"
+    },
+    {
+        "id": 429,
+        "prompt": "Voi {input} (vivere) vicino al parco.",
+        "answer": "vivete",
+        "translation": "You guys live near the park.",
+        "audio": "429_Voi_vivete_vicino_al_parco.mp3"
+    },
+    {
+        "id": 430,
+        "prompt": "Loro {input} (correre) una gara ogni mese.",
+        "answer": "corrono",
+        "translation": "They run a race every month.",
+        "audio": "430_Loro_corrono_una_gara_ogni_mese.mp3"
+    },
+    {
+        "id": 431,
+        "prompt": "Io {input} (prendere) un tè al limone.",
+        "answer": "prendo",
+        "translation": "I have a lemon tea.",
+        "audio": "431_Io_prendo_un_te_al_limone.mp3"
+    },
+    {
+        "id": 432,
+        "prompt": "Tu {input} (scrivere) un messaggio al tuo amico.",
+        "answer": "scrivi",
+        "translation": "You write a message to your friend.",
+        "audio": "432_Tu_scrivi_un_messaggio_al_tuo_amico.mp3"
+    },
+    {
+        "id": 433,
+        "prompt": "Lei {input} (vedere) un concerto dal vivo.",
+        "answer": "vede",
+        "translation": "She sees a live concert.",
+        "audio": "433_Lei_vede_un_concerto_dal_vivo.mp3"
+    },
+    {
+        "id": 434,
+        "prompt": "Noi {input} (vivere) in una casa di legno.",
+        "answer": "viviamo",
+        "translation": "We live in a wooden house.",
+        "audio": "434_Noi_viviamo_in_una_casa_di_legno.mp3"
+    },
+    {
+        "id": 435,
+        "prompt": "Voi {input} (correre) ogni sera al tramonto.",
+        "answer": "correte",
+        "translation": "You guys run every evening at sunset.",
+        "audio": "435_Voi_correte_ogni_sera_al_tramonto.mp3"
+    },
+    {
+        "id": 436,
+        "prompt": "Loro {input} (prendere) una decisione difficile.",
+        "answer": "prendono",
+        "translation": "They make a difficult decision.",
+        "audio": "436_Loro_prendono_una_decisione_difficile.mp3"
+    },
+    {
+        "id": 437,
+        "prompt": "Io {input} (scrivere) un messaggio al dottore.",
+        "answer": "scrivo",
+        "translation": "I write a message to the doctor.",
+        "audio": "437_Io_scrivo_un_messaggio_al_dottore.mp3"
+    },
+    {
+        "id": 438,
+        "prompt": "Tu {input} (vedere) il tramonto dalla finestra.",
+        "answer": "vedi",
+        "translation": "You see the sunset from the window.",
+        "audio": "438_Tu_vedi_il_tramonto_dalla_finestra.mp3"
+    },
+    {
+        "id": 439,
+        "prompt": "Lui {input} (vivere) in una casa di campagna.",
+        "answer": "vive",
+        "translation": "He lives in a country house.",
+        "audio": "439_Lui_vive_in_una_casa_di_campagna.mp3"
+    },
+    {
+        "id": 440,
+        "prompt": "Noi {input} (correre) per prendere l'autobus.",
+        "answer": "corriamo",
+        "translation": "We run to catch the bus.",
+        "audio": "440_Noi_corriamo_per_prendere_lautobus.mp3"
+    },
+    {
+        "id": 441,
+        "prompt": "Voi {input} (prendere) lezioni di chitarra.",
+        "answer": "prendete",
+        "translation": "You guys take guitar lessons.",
+        "audio": "441_Voi_prendete_lezioni_di_chitarra.mp3"
+    },
+    {
+        "id": 442,
+        "prompt": "Loro {input} (scrivere) un messaggio di auguri.",
+        "answer": "scrivono",
+        "translation": "They write a greeting message.",
+        "audio": "442_Loro_scrivono_un_messaggio_di_auguri.mp3"
+    },
+    {
+        "id": 443,
+        "prompt": "Io {input} (vedere) il cielo stellato.",
+        "answer": "vedo",
+        "translation": "I see the starry sky.",
+        "audio": "443_Io_vedo_il_cielo_stellato.mp3"
+    },
+    {
+        "id": 444,
+        "prompt": "Tu {input} (vivere) in una casa vicino al mare.",
+        "answer": "vivi",
+        "translation": "You live in a house near the sea.",
+        "audio": "444_Tu_vivi_in_una_casa_vicino_al_mare.mp3"
+    },
+    {
+        "id": 445,
+        "prompt": "Lei {input} (correre) una maratona.",
+        "answer": "corre",
+        "translation": "She runs a marathon.",
+        "audio": "445_Lei_corre_una_maratona.mp3"
+    },
+    {
+        "id": 446,
+        "prompt": "Noi {input} (prendere) un caffè al bar.",
+        "answer": "prendiamo",
+        "translation": "We have a coffee at the bar.",
+        "audio": "446_Noi_prendiamo_un_caffe_al_bar.mp3"
+    },
+    {
+        "id": 447,
+        "prompt": "Voi {input} (scrivere) una poesia d'amore.",
+        "answer": "scrivete",
+        "translation": "You guys write a love poem.",
+        "audio": "447_Voi_scrivete_una_poesia_damore.mp3"
+    },
+    {
+        "id": 448,
+        "prompt": "Loro {input} (vedere) il mare dalla finestra.",
+        "answer": "vedono",
+        "translation": "They see the sea from the window.",
+        "audio": "448_Loro_vedono_il_mare_dalla_finestra.mp3"
+    },
+    {
+        "id": 449,
+        "prompt": "Io {input} (vivere) in una casa grande.",
+        "answer": "vivo",
+        "translation": "I live in a big house.",
+        "audio": "449_Io_vivo_in_una_casa_grande.mp3"
+    },
+    {
+        "id": 450,
+        "prompt": "Tu {input} (correre) ogni giorno al parco.",
+        "answer": "corri",
+        "translation": "You run every day in the park.",
+        "audio": "450_Tu_corri_ogni_giorno_al_parco.mp3"
+    },
+    {
+        "id": 451,
+        "prompt": "Io {input} (prendere) il sole in spiaggia.",
+        "answer": "prendo",
+        "translation": "I sunbathe on the beach.",
+        "audio": "451_Io_prendo_il_sole_in_spiaggia.mp3"
+    },
+    {
+        "id": 452,
+        "prompt": "Tu {input} (scrivere) un messaggio al tuo amico.",
+        "answer": "scrivi",
+        "translation": "You write a message to your friend.",
+        "audio": "452_Tu_scrivi_un_messaggio_al_tuo_amico.mp3"
+    },
+    {
+        "id": 453,
+        "prompt": "Lei {input} (vedere) un film al cinema.",
+        "answer": "vede",
+        "translation": "She watches a movie at the cinema.",
+        "audio": "453_Lei_vede_un_film_al_cinema.mp3"
+    },
+    {
+        "id": 454,
+        "prompt": "Noi {input} (vivere) in una città affollata.",
+        "answer": "viviamo",
+        "translation": "We live in a crowded city.",
+        "audio": "454_Noi_viviamo_in_una_citta_affollata.mp3"
+    },
+    {
+        "id": 455,
+        "prompt": "Voi {input} (correre) al parco ogni sera.",
+        "answer": "correte",
+        "translation": "You guys run in the park every evening.",
+        "audio": "455_Voi_correte_al_parco_ogni_sera.mp3"
+    },
+    {
+        "id": 456,
+        "prompt": "Loro {input} (prendere) un taxi per l'aeroporto.",
+        "answer": "prendono",
+        "translation": "They take a taxi to the airport.",
+        "audio": "456_Loro_prendono_un_taxi_per_laeroporto.mp3"
+    },
+    {
+        "id": 457,
+        "prompt": "Io {input} (scrivere) un'email alla mia amica.",
+        "answer": "scrivo",
+        "translation": "I write an email to my friend.",
+        "audio": "457_Io_scrivo_unemail_alla_mia_amica.mp3"
+    },
+    {
+        "id": 458,
+        "prompt": "Tu {input} (vedere) un arcobaleno.",
+        "answer": "vedi",
+        "translation": "You see a rainbow.",
+        "audio": "458_Tu_vedi_un_arcobaleno.mp3"
+    },
+    {
+        "id": 459,
+        "prompt": "Lui {input} (vivere) vicino al mare.",
+        "answer": "vive",
+        "translation": "He lives near the sea.",
+        "audio": "459_Lui_vive_vicino_al_mare.mp3"
+    },
+    {
+        "id": 460,
+        "prompt": "Noi {input} (correre) ogni domenica mattina.",
+        "answer": "corriamo",
+        "translation": "We run every Sunday morning.",
+        "audio": "460_Noi_corriamo_ogni_domenica_mattina.mp3"
+    },
+    {
+        "id": 461,
+        "prompt": "Voi {input} (prendere) un caffè al bar.",
+        "answer": "prendete",
+        "translation": "You guys have a coffee at the bar.",
+        "audio": "461_Voi_prendete_un_caffe_al_bar.mp3"
+    },
+    {
+        "id": 462,
+        "prompt": "Loro {input} (scrivere) una poesia d'amore.",
+        "answer": "scrivono",
+        "translation": "They write a love poem.",
+        "audio": "462_Loro_scrivono_una_poesia_damore.mp3"
+    },
+    {
+        "id": 463,
+        "prompt": "Io {input} (vedere) il tramonto dalla finestra.",
+        "answer": "vedo",
+        "translation": "I see the sunset from the window.",
+        "audio": "463_Io_vedo_il_tramonto_dalla_finestra.mp3"
+    },
+    {
+        "id": 464,
+        "prompt": "Tu {input} (vivere) in una casa di legno.",
+        "answer": "vivi",
+        "translation": "You live in a wooden house.",
+        "audio": "464_Tu_vivi_in_una_casa_di_legno.mp3"
+    },
+    {
+        "id": 465,
+        "prompt": "Lei {input} (correre) una maratona ogni anno.",
+        "answer": "corre",
+        "translation": "She runs a marathon every year.",
+        "audio": "465_Lei_corre_una_maratona_ogni_anno.mp3"
+    },
+    {
+        "id": 466,
+        "prompt": "Noi {input} (prendere) lezioni di yoga.",
+        "answer": "prendiamo",
+        "translation": "We take yoga lessons.",
+        "audio": "466_Noi_prendiamo_lezioni_di_yoga.mp3"
+    },
+    {
+        "id": 467,
+        "prompt": "Voi {input} (scrivere) una lista della spesa.",
+        "answer": "scrivete",
+        "translation": "You guys write a shopping list.",
+        "audio": "467_Voi_scrivete_una_lista_della_spesa.mp3"
+    },
+    {
+        "id": 468,
+        "prompt": "Loro {input} (vedere) il mare dalla collina.",
+        "answer": "vedono",
+        "translation": "They see the sea from the hill.",
+        "audio": "468_Loro_vedono_il_mare_dalla_collina.mp3"
+    },
+    {
+        "id": 469,
+        "prompt": "Io {input} (vivere) in un appartamento in centro.",
+        "answer": "vivo",
+        "translation": "I live in an apartment downtown.",
+        "audio": "469_Io_vivo_in_un_appartamento_in_centro.mp3"
+    },
+    {
+        "id": 470,
+        "prompt": "Tu {input} (correre) ogni giorno per mantenerti in forma.",
+        "answer": "corri",
+        "translation": "You run every day to stay fit.",
+        "audio": "470_Tu_corri_ogni_giorno_per_mantenerti_in_forma.mp3"
+    },
+    {
+        "id": 471,
+        "prompt": "Lei {input} (prendere) lezioni di pianoforte.",
+        "answer": "prende",
+        "translation": "She takes piano lessons.",
+        "audio": "471_Lei_prende_lezioni_di_pianoforte.mp3"
+    },
+    {
+        "id": 472,
+        "prompt": "Noi {input} (scrivere) una storia di avventura.",
+        "answer": "scriviamo",
+        "translation": "We write an adventure story.",
+        "audio": "472_Noi_scriviamo_una_storia_di_avventura.mp3"
+    },
+    {
+        "id": 473,
+        "prompt": "Voi {input} (vedere) un documentario sugli animali.",
+        "answer": "vedete",
+        "translation": "You guys watch a documentary about animals.",
+        "audio": "473_Voi_vedete_un_documentario_sugli_animali.mp3"
+    },
+    {
+        "id": 474,
+        "prompt": "Loro {input} (vivere) in una casa con piscina.",
+        "answer": "vivono",
+        "translation": "They live in a house with a pool.",
+        "audio": "474_Loro_vivono_in_una_casa_con_piscina.mp3"
+    },
+    {
+        "id": 475,
+        "prompt": "Io {input} (correre) lungo la spiaggia.",
+        "answer": "corro",
+        "translation": "I run along the beach.",
+        "audio": "475_Io_corro_lungo_la_spiaggia.mp3"
+    },
+    {
+        "id": 476,
+        "prompt": "Tu {input} (prendere) una decisione importante.",
+        "answer": "prendi",
+        "translation": "You make an important decision.",
+        "audio": "476_Tu_prendi_una_decisione_importante.mp3"
+    },
+    {
+        "id": 477,
+        "prompt": "Lui {input} (scrivere) una lettera al direttore.",
+        "answer": "scrive",
+        "translation": "He writes a letter to the director.",
+        "audio": "477_Lui_scrive_una_lettera_al_direttore.mp3"
+    },
+    {
+        "id": 478,
+        "prompt": "Noi {input} (vedere) il cielo stellato.",
+        "answer": "vediamo",
+        "translation": "We see the starry sky.",
+        "audio": "478_Noi_vediamo_il_cielo_stellato.mp3"
+    },
+    {
+        "id": 479,
+        "prompt": "Voi {input} (vivere) in una casa di campagna.",
+        "answer": "vivete",
+        "translation": "You guys live in a country house.",
+        "audio": "479_Voi_vivete_in_una_casa_di_campagna.mp3"
+    },
+    {
+        "id": 480,
+        "prompt": "Loro {input} (correre) ogni mattina.",
+        "answer": "corrono",
+        "translation": "They run every morning.",
+        "audio": "480_Loro_corrono_ogni_mattina.mp3"
+    },
+    {
+        "id": 481,
+        "prompt": "Io {input} (prendere) un cappuccino al bar.",
+        "answer": "prendo",
+        "translation": "I have a cappuccino at the bar.",
+        "audio": "481_Io_prendo_un_cappuccino_al_bar.mp3"
+    },
+    {
+        "id": 482,
+        "prompt": "Tu {input} (scrivere) una lettera alla nonna.",
+        "answer": "scrivi",
+        "translation": "You write a letter to grandma.",
+        "audio": "482_Tu_scrivi_una_lettera_alla_nonna.mp3"
+    },
+    {
+        "id": 483,
+        "prompt": "Lei {input} (vedere) le montagne innevate.",
+        "answer": "vede",
+        "translation": "She sees the snow-capped mountains.",
+        "audio": "483_Lei_vede_le_montagne_innevate.mp3"
+    },
+    {
+        "id": 484,
+        "prompt": "Noi {input} (vivere) in una città tranquilla.",
+        "answer": "viviamo",
+        "translation": "We live in a quiet city.",
+        "audio": "484_Noi_viviamo_in_una_citta_tranquilla.mp3"
+    },
+    {
+        "id": 485,
+        "prompt": "Voi {input} (correre) ogni mattina presto.",
+        "answer": "correte",
+        "translation": "You guys run early every morning.",
+        "audio": "485_Voi_correte_ogni_mattina_presto.mp3"
+    },
+    {
+        "id": 486,
+        "prompt": "Loro {input} (prendere) il treno per Roma.",
+        "answer": "prendono",
+        "translation": "They take the train to Rome.",
+        "audio": "486_Loro_prendono_il_treno_per_Roma.mp3"
+    },
+    {
+        "id": 487,
+        "prompt": "Io {input} (scrivere) un racconto di fantasia.",
+        "answer": "scrivo",
+        "translation": "I write a fantasy story.",
+        "audio": "487_Io_scrivo_un_racconto_di_fantasia.mp3"
+    },
+    {
+        "id": 488,
+        "prompt": "Tu {input} (vedere) una stella cadente.",
+        "answer": "vedi",
+        "translation": "You see a shooting star.",
+        "audio": "488_Tu_vedi_una_stella_cadente.mp3"
+    },
+    {
+        "id": 489,
+        "prompt": "Lui {input} (vivere) in una casa in montagna.",
+        "answer": "vive",
+        "translation": "He lives in a house in the mountains.",
+        "audio": "489_Lui_vive_in_una_casa_in_montagna.mp3"
+    },
+    {
+        "id": 490,
+        "prompt": "Noi {input} (correre) una gara ogni mese.",
+        "answer": "corriamo",
+        "translation": "We run a race every month.",
+        "audio": "490_Noi_corriamo_una_gara_ogni_mese.mp3"
+    },
+    {
+        "id": 491,
+        "prompt": "Voi {input} (prendere) un taxi per andare in centro.",
+        "answer": "prendete",
+        "translation": "You guys take a taxi to go downtown.",
+        "audio": "491_Voi_prendete_un_taxi_per_andare_in_centro.mp3"
+    },
+    {
+        "id": 492,
+        "prompt": "Loro {input} (scrivere) una recensione di un ristorante.",
+        "answer": "scrivono",
+        "translation": "They write a restaurant review.",
+        "audio": "492_Loro_scrivono_una_recensione_di_un_ristorante.mp3"
+    },
+    {
+        "id": 493,
+        "prompt": "Io {input} (vedere) le luci della città.",
+        "answer": "vedo",
+        "translation": "I see the city lights.",
+        "audio": "493_Io_vedo_le_luci_della_citta.mp3"
+    },
+    {
+        "id": 494,
+        "prompt": "Tu {input} (vivere) con i tuoi genitori.",
+        "answer": "vivi",
+        "translation": "You live with your parents.",
+        "audio": "494_Tu_vivi_con_i_tuoi_genitori.mp3"
+    },
+    {
+        "id": 495,
+        "prompt": "Lei {input} (correre) lungo il fiume.",
+        "answer": "corre",
+        "translation": "She runs along the river.",
+        "audio": "495_Lei_corre_lungo_il_fiume.mp3"
+    },
+    {
+        "id": 496,
+        "prompt": "Noi {input} (prendere) il bus per andare a scuola.",
+        "answer": "prendiamo",
+        "translation": "We take the bus to go to school.",
+        "audio": "496_Noi_prendiamo_il_bus_per_andare_a_scuola.mp3"
+    },
+    {
+        "id": 497,
+        "prompt": "Voi {input} (scrivere) un articolo di giornale.",
+        "answer": "scrivete",
+        "translation": "You guys write a newspaper article.",
+        "audio": "497_Voi_scrivete_un_articolo_di_giornale.mp3"
+    },
+    {
+        "id": 498,
+        "prompt": "Loro {input} (vedere) il tramonto dalla collina.",
+        "answer": "vedono",
+        "translation": "They see the sunset from the hill.",
+        "audio": "498_Loro_vedono_il_tramonto_dalla_collina.mp3"
+    },
+    {
+        "id": 499,
+        "prompt": "Io {input} (vivere) una vita avventurosa.",
+        "answer": "vivo",
+        "translation": "I live an adventurous life.",
+        "audio": "499_Io_vivo_una_vita_avventurosa.mp3"
+    },
+    {
+        "id": 500,
+        "prompt": "Tu {input} (correre) per prendere l'autobus.",
+        "answer": "corri",
+        "translation": "You run to catch the bus.",
+        "audio": "500_Tu_corri_per_prendere_lautobus.mp3"
+    }
+]
+
+
+
+
+
+
+
